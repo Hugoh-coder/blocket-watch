@@ -171,14 +171,6 @@ def sportson(profile):
 WANTED = re.compile(r"\b(köpes|köpas|sökes|sökes|önskar köpa|letar efter|byteskoll|intressekoll)\b", re.I)
 
 
-def _first(d, *keys):
-    for k in keys:
-        v = d.get(k)
-        if v not in (None, ""):
-            return v
-    return None
-
-
 def facebook(profile):
     """Facebook Marketplace via the Apify REST API. Only runs when APIFY_TOKEN is set
     (the GitHub Action supplies it). No login/cookies — the actor handles that."""
@@ -195,8 +187,8 @@ def facebook(profile):
                                  headers={"Content-Type": "application/json"})
     data = json.loads(urllib.request.urlopen(req, timeout=280).read())
     for it in data:
-        title = _first(it, "title", "listingTitle") or ""
-        desc = _first(it, "description") or ""
+        title = it.get("listingTitle") or it.get("title") or it.get("customTitle") or ""
+        desc = it.get("description") or ""
         if not title or WANTED.search(title) or WANTED.search(desc[:250]):
             continue
         if not BRAND_OR_MODEL.search(title) or NOT_ROAD.search(title):
@@ -204,17 +196,20 @@ def facebook(profile):
         text = f"{title} {desc}"
         if not size_ok(text, profile):
             continue
-        raw = _first(it, "price", "listingPrice.amount") or (it.get("listingPrice") or {}).get("amount")
+        price_raw = (it.get("price") or it.get("listingPrice.amount")
+                     or (it.get("listingPrice") or {}).get("amount"))
         try:
-            amount = int(float(raw))
+            amount = int(float(price_raw))
         except (TypeError, ValueError):
             continue
         if not (BUDGET[0] <= amount <= BUDGET[1]):
             continue
-        loc = (_first(it, "location", "locationText") or "").split(",")[0].strip()
-        yield {"id": "fb-" + str(_first(it, "id", "itemUrl") or title), "brand": brand_of(title),
+        loc_raw = it.get("locationText") or it.get("location")
+        loc = loc_raw.split(",")[0].strip() if isinstance(loc_raw, str) else ""
+        item_url = it.get("itemUrl") or it.get("url") or it.get("facebookUrl") or ""
+        yield {"id": "fb-" + str(it.get("id") or item_url or title), "brand": brand_of(title),
                "title": title, "price": amount, "loc": loc, "src": "Facebook",
-               "url": _first(it, "url", "itemUrl") or "", "size": size_label(text)}
+               "url": item_url, "size": size_label(text)}
 
 
 def collect(profile):
