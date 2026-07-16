@@ -82,6 +82,16 @@
       "size": "L"
     },
     {
+      "id": "fb-4448321155433150",
+      "brand": "Bianchi",
+      "title": "Bianchi Via Nirone 7 105 Disc",
+      "price": 17000,
+      "loc": "Enköping",
+      "src": "Facebook",
+      "url": "https://www.facebook.com/marketplace/item/4448321155433150",
+      "size": "57 cm"
+    },
+    {
       "id": "21178493",
       "brand": "Bianchi",
       "title": "Bianchi Vertigo 130års edition strl 57 / L",
@@ -112,10 +122,20 @@
       "size": "L"
     },
     {
+      "id": "fb-3021856078023803",
+      "brand": "Specialized",
+      "title": "Racer Specialized herr Large",
+      "price": 10000,
+      "loc": "Nyköping",
+      "src": "Facebook",
+      "url": "https://www.facebook.com/marketplace/item/3021856078023803",
+      "size": "L"
+    },
+    {
       "id": "24629094",
       "brand": "Specialized",
       "title": "Specialized landsvägscykel L 28\"/700c unisex",
-      "price": 16000,
+      "price": 15000,
       "loc": "Linköping",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/24629094",
@@ -130,16 +150,6 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/specialized-tarmac.336855/",
       "size": "L"
-    },
-    {
-      "id": "24466563",
-      "brand": "Specialized",
-      "title": "Specialized Aethos 58cm",
-      "price": 25000,
-      "loc": "Farsta",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/24466563",
-      "size": "58 cm"
     },
     {
       "id": "24645110",
@@ -220,16 +230,6 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/22528650",
       "size": "XL"
-    },
-    {
-      "id": "hr-337944",
-      "brand": "Trek",
-      "title": "Trek Domane SL 5 gen 3",
-      "price": 25000,
-      "loc": "Skåne",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/trek-domane-sl-5-gen-3.337944/",
-      "size": "L"
     },
     {
       "id": "hr-331651",
