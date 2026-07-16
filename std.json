@@ -2,26 +2,6 @@
   "profile": "std",
   "items": [
     {
-      "id": "24643915",
-      "brand": "Bianchi",
-      "title": "Bianchi Impulso landsvägscykel med ultegraväxlar",
-      "price": 10500,
-      "loc": "Uppsala",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/24643915",
-      "size": "57 cm"
-    },
-    {
-      "id": "23902397",
-      "brand": "Bianchi",
-      "title": "Bianchi landsvägscykel 57 cm 28\" unisex",
-      "price": 12000,
-      "loc": "Stockholm",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/23902397",
-      "size": "57 cm"
-    },
-    {
       "id": "hr-338532",
       "brand": "Bianchi",
       "title": "Bianchi Infinito CV 57 – Shimano Ultegra – Nyservad",
@@ -42,26 +22,6 @@
       "size": "L"
     },
     {
-      "id": "23114868",
-      "brand": "Bianchi",
-      "title": "Bianchi Infinito CV str 59",
-      "price": 14900,
-      "loc": "Stockholm",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/23114868",
-      "size": "59 cm"
-    },
-    {
-      "id": "23524908",
-      "brand": "Bianchi",
-      "title": "Bianchi Aria",
-      "price": 15000,
-      "loc": "Kiruna",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/23524908",
-      "size": "57 cm"
-    },
-    {
       "id": "hr-337635",
       "brand": "Bianchi",
       "title": "Bianchi Infinito",
@@ -70,36 +30,6 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/bianchi-infinito.337635/",
       "size": "L"
-    },
-    {
-      "id": "23683507",
-      "brand": "Bianchi",
-      "title": "Bianchi landsvägscykel 28\"",
-      "price": 17000,
-      "loc": "Karlstad",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/23683507",
-      "size": "L"
-    },
-    {
-      "id": "21178493",
-      "brand": "Bianchi",
-      "title": "Bianchi Vertigo 130års edition strl 57 / L",
-      "price": 19500,
-      "loc": "Rönninge",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/21178493",
-      "size": "57 cm"
-    },
-    {
-      "id": "24833644",
-      "brand": "Bianchi",
-      "title": "Bianchi Oltre XR3",
-      "price": 20000,
-      "loc": "Trångsund",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/24833644",
-      "size": "57 cm"
     },
     {
       "id": "24629094",
@@ -222,5 +152,7 @@
       "size": "L"
     }
   ],
-  "errors": []
+  "errors": [
+    "blocket: [Errno 104] Connection reset by peer"
+  ]
 }

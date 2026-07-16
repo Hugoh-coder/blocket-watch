@@ -12,5 +12,7 @@
       "size": "58 cm"
     }
   ],
-  "errors": []
+  "errors": [
+    "blocket: [Errno 104] Connection reset by peer"
+  ]
 }
