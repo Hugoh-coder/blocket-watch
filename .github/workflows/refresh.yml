@@ -25,7 +25,7 @@ jobs:
 
       - name: Scrape + build pages
         env:
-          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}   # optional — enables Facebook source
+          APIFY_TOKEN: ${{ secrets.APIFY }}   # optional — enables Facebook source
         run: |
           uv run watch.py --json > std.json
           uv run watch.py xl61 --json > xl61.json
