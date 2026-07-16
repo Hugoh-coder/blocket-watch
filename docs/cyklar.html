@@ -39,9 +39,13 @@
     color:var(--ink-soft); cursor:pointer; transition:background .15s,color .15s,border-color .15s; }
   button.f:hover, button.sort:hover { border-color:var(--accent); color:var(--ink); }
   button.f.on { background:var(--accent); color:var(--accent-ink); border-color:var(--accent); }
-  .sort { margin-left:auto; }
+  .right-btns { margin-left:auto; display:flex; gap:6px; flex-wrap:wrap; }
   button.f:focus-visible, button.sort:focus-visible, a.card:focus-visible, a.big:focus-visible {
     outline:2px solid var(--accent); outline-offset:2px; }
+  a.card.viewed { opacity:.5; }
+  a.card.viewed:hover { opacity:.85; }
+  .viewed-badge { font-size:.68rem; font-weight:700; color:var(--accent-ink);
+    background:var(--accent); padding:2px 8px; border-radius:6px; letter-spacing:.02em; }
   main { padding:20px 0 60px; }
   .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(270px,1fr)); gap:14px; }
   a.card { display:flex; flex-direction:column; gap:9px; background:var(--surface);
@@ -82,7 +86,10 @@
   
   <div class="controls">
     <div class="filters" id="filters"></div>
-    <button class="sort" id="sortBtn">Pris: lägst först ↑</button>
+    <div class="right-btns">
+      <button class="sort" id="clearBtn" hidden>Rensa visade</button>
+      <button class="sort" id="sortBtn">Pris: lägst först ↑</button>
+    </div>
   </div>
 </div></header>
 <main><div class="wrap">
@@ -139,21 +146,35 @@
   const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g,
     c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;" }[c]));
   const safeUrl = u => /^https?:\/\//i.test(u) ? u : "#";
+
+  // remember which bikes you've clicked (this browser only) — keyed by listing URL
+  const VIEWED_KEY = "viewedBikes";
+  let viewed = new Set(JSON.parse(localStorage.getItem(VIEWED_KEY) || "[]"));
+  const saveViewed = () => localStorage.setItem(VIEWED_KEY, JSON.stringify([...viewed]));
+  const clearBtn = document.getElementById("clearBtn");
+  clearBtn.onclick = () => { viewed.clear(); saveViewed(); render(); };
+
   function render() {
     const grid = document.getElementById("grid"), empty = document.getElementById("empty");
     let list = bikes.filter(b => activeBrand === "Alla" || b.brand === activeBrand);
     list.sort((a, b) => sortAsc ? a.price - b.price : b.price - a.price);
     document.getElementById("count").textContent = list.length;
+    clearBtn.hidden = viewed.size === 0;
     grid.innerHTML = ""; empty.hidden = list.length > 0;
     for (const b of list) {
+      const seen = viewed.has(b.url);
       const a = document.createElement("a");
-      a.className = "card"; a.href = safeUrl(b.url); a.target = "_blank"; a.rel = "noopener";
+      a.className = "card" + (seen ? " viewed" : "");
+      a.href = safeUrl(b.url); a.target = "_blank"; a.rel = "noopener";
       a.innerHTML = `
         <div class="card-top"><span class="brand">${esc(b.brand)}</span><span class="price">${kr(b.price)}</span></div>
         <div class="title">${esc(b.title)}</div>
-        <div class="meta">${b.size ? `<span class="size">Storlek ${esc(b.size)}</span>` : ``}<span class="loc">${esc(b.loc)}</span></div>
+        <div class="meta">${b.size ? `<span class="size">Storlek ${esc(b.size)}</span>` : ``}<span class="loc">${esc(b.loc)}</span>${seen ? `<span class="viewed-badge">✓ Visad</span>` : ``}</div>
         ${b.note ? `<div class="note">${esc(b.note)}</div>` : ``}
         <div class="row-bottom"><span class="src">${esc(b.src)}</span><span class="go">Visa annons →</span></div>`;
+      a.addEventListener("click", () => {
+        if (!viewed.has(b.url)) { viewed.add(b.url); saveViewed(); render(); }
+      });
       grid.appendChild(a);
     }
   }

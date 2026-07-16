@@ -39,9 +39,13 @@
     color:var(--ink-soft); cursor:pointer; transition:background .15s,color .15s,border-color .15s; }
   button.f:hover, button.sort:hover { border-color:var(--accent); color:var(--ink); }
   button.f.on { background:var(--accent); color:var(--accent-ink); border-color:var(--accent); }
-  .sort { margin-left:auto; }
+  .right-btns { margin-left:auto; display:flex; gap:6px; flex-wrap:wrap; }
   button.f:focus-visible, button.sort:focus-visible, a.card:focus-visible, a.big:focus-visible {
     outline:2px solid var(--accent); outline-offset:2px; }
+  a.card.viewed { opacity:.5; }
+  a.card.viewed:hover { opacity:.85; }
+  .viewed-badge { font-size:.68rem; font-weight:700; color:var(--accent-ink);
+    background:var(--accent); padding:2px 8px; border-radius:6px; letter-spacing:.02em; }
   main { padding:20px 0 60px; }
   .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(270px,1fr)); gap:14px; }
   a.card { display:flex; flex-direction:column; gap:9px; background:var(--surface);
