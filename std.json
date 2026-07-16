@@ -222,7 +222,5 @@
       "size": "L"
     }
   ],
-  "errors": [
-    "facebook: 'dict' object has no attribute 'split'"
-  ]
+  "errors": []
 }
