@@ -113,6 +113,10 @@
   sortBtn.onclick = () => { sortAsc = !sortAsc;
     sortBtn.textContent = sortAsc ? "Pris: lägst först ↑" : "Pris: högst först ↓"; render(); };
   const kr = n => n.toLocaleString("sv-SE") + " kr";
+  // scraped text (title/loc/…) is untrusted — escape it, and only allow http(s) links
+  const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g,
+    c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;" }[c]));
+  const safeUrl = u => /^https?:\/\//i.test(u) ? u : "#";
   function render() {
     const grid = document.getElementById("grid"), empty = document.getElementById("empty");
     let list = bikes.filter(b => activeBrand === "Alla" || b.brand === activeBrand);
@@ -121,13 +125,13 @@
     grid.innerHTML = ""; empty.hidden = list.length > 0;
     for (const b of list) {
       const a = document.createElement("a");
-      a.className = "card"; a.href = b.url; a.target = "_blank"; a.rel = "noopener";
+      a.className = "card"; a.href = safeUrl(b.url); a.target = "_blank"; a.rel = "noopener";
       a.innerHTML = `
-        <div class="card-top"><span class="brand">${b.brand}</span><span class="price">${kr(b.price)}</span></div>
-        <div class="title">${b.title}</div>
-        <div class="meta">${b.size ? `<span class="size">Storlek ${b.size}</span>` : ``}<span class="loc">${b.loc}</span></div>
-        ${b.note ? `<div class="note">${b.note}</div>` : ``}
-        <div class="row-bottom"><span class="src">${b.src}</span><span class="go">Visa annons →</span></div>`;
+        <div class="card-top"><span class="brand">${esc(b.brand)}</span><span class="price">${kr(b.price)}</span></div>
+        <div class="title">${esc(b.title)}</div>
+        <div class="meta">${b.size ? `<span class="size">Storlek ${esc(b.size)}</span>` : ``}<span class="loc">${esc(b.loc)}</span></div>
+        ${b.note ? `<div class="note">${esc(b.note)}</div>` : ``}
+        <div class="row-bottom"><span class="src">${esc(b.src)}</span><span class="go">Visa annons →</span></div>`;
       grid.appendChild(a);
     }
   }
