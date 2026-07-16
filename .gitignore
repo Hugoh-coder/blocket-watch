@@ -1,0 +1,6 @@
+seen_std.json
+seen_xl61.json
+seen_ids.json
+__pycache__/
+*.pyc
+.DS_Store
