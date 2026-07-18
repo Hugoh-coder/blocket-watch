@@ -72,16 +72,6 @@
       "size": "L"
     },
     {
-      "id": "151743",
-      "brand": "Bianchi",
-      "title": "BIANCHI RACER VIA NIRONE 7 Disc 105 11x2 vxl REA",
-      "price": 16484,
-      "loc": "Tvååker",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/151743",
-      "size": "57 cm"
-    },
-    {
       "id": "23683507",
       "brand": "Bianchi",
       "title": "Bianchi landsvägscykel 28\"",
@@ -152,6 +142,16 @@
       "size": "L"
     },
     {
+      "id": "hr-338758",
+      "brand": "Specialized",
+      "title": "Specialized Allez Sprint",
+      "price": 16000,
+      "loc": "Göteborg",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/specialized-allez-sprint.338758/",
+      "size": "L"
+    },
+    {
       "id": "hr-336855",
       "brand": "Specialized",
       "title": "Specialized Tarmac",
@@ -209,6 +209,16 @@
       "loc": "Österskär",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/24818263",
+      "size": "58 cm"
+    },
+    {
+      "id": "24892655",
+      "brand": "Trek",
+      "title": "Trek Émonda SL 6 landsvägscykel 58 cm 28\"/700c unisex",
+      "price": 18000,
+      "loc": "Hisings Backa",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/24892655",
       "size": "58 cm"
     },
     {
