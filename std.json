@@ -12,16 +12,6 @@
       "size": "57 cm"
     },
     {
-      "id": "23902397",
-      "brand": "Bianchi",
-      "title": "Bianchi landsvägscykel 57 cm 28\" unisex",
-      "price": 12000,
-      "loc": "Stockholm",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/23902397",
-      "size": "57 cm"
-    },
-    {
       "id": "hr-338532",
       "brand": "Bianchi",
       "title": "Bianchi Infinito CV 57 – Shimano Ultegra – Nyservad",
@@ -72,6 +62,16 @@
       "size": "L"
     },
     {
+      "id": "151743",
+      "brand": "Bianchi",
+      "title": "BIANCHI RACER VIA NIRONE 7 Disc 105 11x2 vxl REA",
+      "price": 16484,
+      "loc": "Tvååker",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/151743",
+      "size": "57 cm"
+    },
+    {
       "id": "23683507",
       "brand": "Bianchi",
       "title": "Bianchi landsvägscykel 28\"",
@@ -80,16 +80,6 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/23683507",
       "size": "L"
-    },
-    {
-      "id": "fb-4448321155433150",
-      "brand": "Bianchi",
-      "title": "Bianchi Via Nirone 7 105 Disc",
-      "price": 17000,
-      "loc": "Enköping",
-      "src": "Facebook",
-      "url": "https://www.facebook.com/marketplace/item/4448321155433150",
-      "size": "57 cm"
     },
     {
       "id": "21178493",
@@ -112,16 +102,6 @@
       "size": "57 cm"
     },
     {
-      "id": "fb-3021856078023803",
-      "brand": "Specialized",
-      "title": "Racer Specialized herr Large",
-      "price": 10000,
-      "loc": "Nyköping",
-      "src": "Facebook",
-      "url": "https://www.facebook.com/marketplace/item/3021856078023803",
-      "size": "L"
-    },
-    {
       "id": "24629094",
       "brand": "Specialized",
       "title": "Specialized landsvägscykel L 28\"/700c unisex",
@@ -140,6 +120,16 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/specialized-allez-sprint.338758/",
       "size": "L"
+    },
+    {
+      "id": "24965890",
+      "brand": "Specialized",
+      "title": "Helt ny Specialized Allez E5 comp",
+      "price": 20000,
+      "loc": "Djurmo",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/24965890",
+      "size": "58 cm"
     },
     {
       "id": "hr-336855",
@@ -182,6 +172,16 @@
       "size": "L"
     },
     {
+      "id": "24818263",
+      "brand": "Trek",
+      "title": "Trek Emonda SL6",
+      "price": 12900,
+      "loc": "Österskär",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/24818263",
+      "size": "58 cm"
+    },
+    {
       "id": "24812090",
       "brand": "Trek",
       "title": "Trek Madone 4.7 Carbon 60 real 58. Första ägaren, kvitto & tillbehör medföljer",
@@ -200,16 +200,6 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/trek-madone-5-9.337351/",
       "size": "L"
-    },
-    {
-      "id": "24818263",
-      "brand": "Trek",
-      "title": "Trek Emonda SL6",
-      "price": 14900,
-      "loc": "Österskär",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/24818263",
-      "size": "58 cm"
     },
     {
       "id": "24934823",
