@@ -112,6 +112,36 @@
       "size": "57 cm"
     },
     {
+      "id": "24979263",
+      "brand": "Canyon",
+      "title": "Canyon Endurace CF 7 strl. XXL - 2022",
+      "price": 17000,
+      "loc": "Rockneby",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/24979263",
+      "size": "XL"
+    },
+    {
+      "id": "24425132",
+      "brand": "Canyon",
+      "title": "Canyon Endurace CF 7 AXS",
+      "price": 30000,
+      "loc": "Stockholm",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/24425132",
+      "size": "L"
+    },
+    {
+      "id": "24963098",
+      "brand": "Canyon",
+      "title": "Canyon Ultimate CF SL 7 Disc 2022 – 2XL – HUNT 50/65 Carbon",
+      "price": 30000,
+      "loc": "Täby",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/24963098",
+      "size": "XL"
+    },
+    {
       "id": "fb-3021856078023803",
       "brand": "Specialized",
       "title": "Racer Specialized herr Large",
@@ -232,14 +262,24 @@
       "size": "58 cm"
     },
     {
-      "id": "hr-331651",
+      "id": "hr-331802",
       "brand": "Trek",
-      "title": "Trek Émonda SL 6 Disc Pro",
-      "price": 25000,
+      "title": "Trek Domane Koppenberg – Race Shop Limited build",
+      "price": 27500,
       "loc": "Dalarna",
       "src": "Happyride",
-      "url": "https://happyride.se/annonser/trek-emonda-sl-6-disc-pro.331651/",
+      "url": "https://happyride.se/annonser/trek-domane-koppenberg-race-shop-limited-build.331802/",
       "size": "L"
+    },
+    {
+      "id": "6002",
+      "brand": "Trek",
+      "title": "Trek Domane SL 5 Gen 4",
+      "price": 29000,
+      "loc": "Skövde",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/6002",
+      "size": "58 cm"
     }
   ],
   "errors": []
