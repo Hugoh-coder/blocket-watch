@@ -29,7 +29,7 @@ from blocket_api.ad_parser import RecommerceAd
 from blocket_api.constants import SubCategory
 
 BRANDS = ["Trek", "Specialized", "Canyon", "Bianchi"]
-BUDGET = (10_000, 25_000)  # SEK
+BUDGETS = {"std": (10_000, 30_000), "xl61": (10_000, 25_000)}  # SEK, per profile
 PAGES = 5
 NOT_ROAD = re.compile(r"mountainbike|mtb|heldämpad|enduro|downhill|elcykel|e-?bike|e-?road|hybrid|bmx|lådcykel|barncykel|gravel|cyclocross|cross|triathlon|tt-cykel|city|fatbike", re.I)
 MODELS = (r"domane|madone|emonda|émonda|"           # Trek
@@ -223,6 +223,7 @@ def collect(profile):
 
 
 profile = "xl61" if "xl61" in sys.argv else "std"
+BUDGET = BUDGETS[profile]
 items, errors = collect(profile)
 
 if "--json" in sys.argv:

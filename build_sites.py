@@ -53,7 +53,7 @@ def js(s):
     return json.dumps(s, ensure_ascii=False)
 
 
-def build(items, out_name, title, size_line, dad_note=""):
+def build(items, out_name, title, size_line, price_line, dad_note=""):
     items = dedupe(items)
     items.sort(key=lambda x: (x["brand"], x["price"]))
     rows = "\n".join(
@@ -65,6 +65,7 @@ def build(items, out_name, title, size_line, dad_note=""):
         for it in items)
     page = (PAGE_TPL.replace("__TITLE__", html_mod.escape(title))
             .replace("__SIZELINE__", html_mod.escape(size_line))
+            .replace("__PRICELINE__", html_mod.escape(price_line))
             .replace("__COUNT__", str(len(items)))
             .replace("__UPDATED__", UPDATED)
             .replace("__DADNOTE__", dad_note)
@@ -158,7 +159,7 @@ PAGE_TPL = "<title>__TITLE__</title>\n" + STYLE + r"""
 <header><div class="head-inner">
   <a class="back" href="./">← Alla listor</a>
   <h1>__TITLE__ 🚲</h1>
-  <p class="sub"><b id="count">__COUNT__</b> begagnade landsvägscyklar i hela Sverige · Trek · Specialized · Canyon · Bianchi · __SIZELINE__ · 10 000–25 000 kr</p>
+  <p class="sub"><b id="count">__COUNT__</b> begagnade landsvägscyklar i hela Sverige · Trek · Specialized · Canyon · Bianchi · __SIZELINE__ · __PRICELINE__</p>
   __DADNOTE__
   <div class="controls">
     <div class="filters" id="filters"></div>
@@ -239,17 +240,17 @@ __ROWS__
 INDEX_TPL = "<title>Racercyklar till salu</title>\n" + STYLE + r"""
 <header><div class="head-inner">
   <h1>Racercyklar till salu 🚲</h1>
-  <p class="sub">Begagnade landsvägscyklar i hela Sverige · Trek · Specialized · Canyon · Bianchi · 10 000–25 000 kr · uppdateras varje morgon</p>
+  <p class="sub">Begagnade landsvägscyklar i hela Sverige · Trek · Specialized · Canyon · Bianchi · uppdateras varje morgon</p>
 </div></header>
 <main><div class="wrap">
   <div class="choose">
     <a class="big" href="cyklar.html">
       <div class="em">🚲</div><h2>Min storlek</h2>
-      <p>Storlek L / XL / 58 cm — <b id="a">__CA__</b> cyklar</p>
+      <p>Storlek L / XL / 58 cm · 10 000–30 000 kr — <b id="a">__CA__</b> cyklar</p>
     </a>
     <a class="big" href="cyklar-xl.html">
       <div class="em">👴</div><h2>Pappas storlek</h2>
-      <p>Storlek XL / 61 cm — <b id="b">__CB__</b> cyklar</p>
+      <p>Storlek XL / 61 cm · 10 000–25 000 kr — <b id="b">__CB__</b> cyklar</p>
     </a>
   </div>
 </div></main>
@@ -259,12 +260,12 @@ INDEX_TPL = "<title>Racercyklar till salu</title>\n" + STYLE + r"""
 DOCS.mkdir(exist_ok=True)
 
 std = load("std.json")
-build(std, "cyklar.html", "Racercyklar till salu", "storlek L / XL / 58 cm")
+build(std, "cyklar.html", "Racercyklar till salu", "storlek L / XL / 58 cm", "10 000–30 000 kr")
 
 xl = clean_xl(load("xl61.json"))
 dad = ('<p class="dad">👴 Pappas storlek: XL / 61 cm. Det här är en smal nisch — '
        'få cyklar av just dessa märken finns i den storleken och prisklassen just nu.</p>')
-build(xl, "cyklar-xl.html", "Racercyklar XL / 61 cm", "storlek XL / 60–62 cm", dad_note=dad)
+build(xl, "cyklar-xl.html", "Racercyklar XL / 61 cm", "storlek XL / 60–62 cm", "10 000–25 000 kr", dad_note=dad)
 
 count_a = len(dedupe(std))
 count_b = len(dedupe(clean_xl(load("xl61.json"))))
