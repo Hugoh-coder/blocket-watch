@@ -15,7 +15,7 @@
       "id": "hr-338532",
       "brand": "Bianchi",
       "title": "Bianchi Infinito CV 57 – Shimano Ultegra – Nyservad",
-      "price": 14000,
+      "price": 12900,
       "loc": "Stockholm",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/bianchi-infinito-cv-57-shimano-ultegra-nyservad.338532/",
@@ -60,16 +60,6 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/bianchi-infinito.337635/",
       "size": "L"
-    },
-    {
-      "id": "151743",
-      "brand": "Bianchi",
-      "title": "BIANCHI RACER VIA NIRONE 7 Disc 105 11x2 vxl REA",
-      "price": 16484,
-      "loc": "Tvååker",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/151743",
-      "size": "57 cm"
     },
     {
       "id": "23683507",
@@ -142,16 +132,6 @@
       "size": "XL"
     },
     {
-      "id": "fb-3021856078023803",
-      "brand": "Specialized",
-      "title": "Racer Specialized herr Large",
-      "price": 10000,
-      "loc": "Nyköping",
-      "src": "Facebook",
-      "url": "https://www.facebook.com/marketplace/item/3021856078023803",
-      "size": "L"
-    },
-    {
       "id": "24629094",
       "brand": "Specialized",
       "title": "Specialized landsvägscykel L 28\"/700c unisex",
@@ -184,11 +164,11 @@
     {
       "id": "hr-336855",
       "brand": "Specialized",
-      "title": "Specialized Tarmac",
+      "title": "Specialized Tarmac med Zipphjul 404",
       "price": 22500,
       "loc": "Stockholm",
       "src": "Happyride",
-      "url": "https://happyride.se/annonser/specialized-tarmac.336855/",
+      "url": "https://happyride.se/annonser/specialized-tarmac-med-zipphjul-404.336855/",
       "size": "L"
     },
     {
@@ -200,16 +180,6 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/trek.338855/",
       "size": "L"
-    },
-    {
-      "id": "24645110",
-      "brand": "Trek",
-      "title": "\"Racer\" TREK Domane AL 5 -2019",
-      "price": 11000,
-      "loc": "Älvdalen",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/24645110",
-      "size": "58 cm"
     },
     {
       "id": "hr-338511",
@@ -280,6 +250,16 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/6002",
       "size": "58 cm"
+    },
+    {
+      "id": "hr-333537",
+      "brand": "Trek",
+      "title": "Trek Madone slr  factory racing",
+      "price": 30000,
+      "loc": "Jönköping",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/trek-madone-slr-factory-racing.333537/",
+      "size": "L"
     }
   ],
   "errors": []
