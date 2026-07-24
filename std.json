@@ -42,16 +42,6 @@
       "size": "59 cm"
     },
     {
-      "id": "23524908",
-      "brand": "Bianchi",
-      "title": "Bianchi Aria",
-      "price": 15000,
-      "loc": "Kiruna",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/23524908",
-      "size": "57 cm"
-    },
-    {
       "id": "hr-337635",
       "brand": "Bianchi",
       "title": "Bianchi Infinito",
@@ -116,7 +106,7 @@
       "brand": "Bianchi",
       "title": "Bianchi Oltre Race 105",
       "price": 24500,
-      "loc": "Dalarna",
+      "loc": "Stockholm",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/bianchi-oltre-race-105.339320/",
       "size": "L"
@@ -129,6 +119,16 @@
       "loc": "Rockneby",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/24979263",
+      "size": "XL"
+    },
+    {
+      "id": "25057173",
+      "brand": "Canyon",
+      "title": "Canyon Ultimate CF SL 7 Disc - 2XL",
+      "price": 21000,
+      "loc": "Täby",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25057173",
       "size": "XL"
     },
     {
@@ -165,7 +165,7 @@
       "id": "24965890",
       "brand": "Specialized",
       "title": "Helt ny Specialized Allez E5 comp",
-      "price": 20000,
+      "price": 18000,
       "loc": "Djurmo",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/24965890",
@@ -195,7 +195,7 @@
       "id": "hr-338855",
       "brand": "Trek",
       "title": "Trek",
-      "price": 10500,
+      "price": 10000,
       "loc": "Skåne",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/trek.338855/",
@@ -222,23 +222,23 @@
       "size": "58 cm"
     },
     {
-      "id": "hr-337351",
+      "id": "24818263",
       "brand": "Trek",
-      "title": "Trek Madone 5.9",
-      "price": 14000,
-      "loc": "Göteborg",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/trek-madone-5-9.337351/",
-      "size": "L"
+      "title": "Trek Emonda SL6",
+      "price": 12900,
+      "loc": "Österskär",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/24818263",
+      "size": "58 cm"
     },
     {
-      "id": "24934823",
+      "id": "25053765",
       "brand": "Trek",
-      "title": "Trek Domane SL 5 58 tums ram,",
-      "price": 18000,
-      "loc": "Uddevalla",
+      "title": "Trek Émonda ALR 5 Disc | Strl 58 | Bontrager Aeolus Elite 50",
+      "price": 17000,
+      "loc": "Stockholm",
       "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/24934823",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25053765",
       "size": "58 cm"
     },
     {
