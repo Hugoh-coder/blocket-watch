@@ -42,6 +42,16 @@
       "size": "59 cm"
     },
     {
+      "id": "25070280",
+      "brand": "Bianchi",
+      "title": "Bianchi Impulso Allroad GRX 600 - 22-växlad - 57cm (179-185cm) - Turkos",
+      "price": 15000,
+      "loc": "Borås",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25070280",
+      "size": "57 cm"
+    },
+    {
       "id": "hr-337635",
       "brand": "Bianchi",
       "title": "Bianchi Infinito",
@@ -50,6 +60,16 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/bianchi-infinito.337635/",
       "size": "L"
+    },
+    {
+      "id": "151743",
+      "brand": "Bianchi",
+      "title": "BIANCHI RACER VIA NIRONE 7 Disc 105 11x2 vxl REA",
+      "price": 16484,
+      "loc": "Tvååker",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/151743",
+      "size": "57 cm"
     },
     {
       "id": "23683507",
@@ -79,16 +99,6 @@
       "loc": "Rönninge",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/21178493",
-      "size": "57 cm"
-    },
-    {
-      "id": "24833644",
-      "brand": "Bianchi",
-      "title": "Bianchi Oltre XR3",
-      "price": 20000,
-      "loc": "Trångsund",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/24833644",
       "size": "57 cm"
     },
     {
@@ -142,16 +152,6 @@
       "size": "L"
     },
     {
-      "id": "24963098",
-      "brand": "Canyon",
-      "title": "Canyon Ultimate CF SL 7 Disc 2022 – 2XL – HUNT 50/65 Carbon",
-      "price": 30000,
-      "loc": "Täby",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/24963098",
-      "size": "XL"
-    },
-    {
       "id": "hr-338758",
       "brand": "Specialized",
       "title": "Specialized Allez Sprint",
@@ -199,16 +199,6 @@
       "loc": "Skåne",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/trek.338855/",
-      "size": "L"
-    },
-    {
-      "id": "hr-338511",
-      "brand": "Trek",
-      "title": "\"Racer\" TREK Domane AL 5 -2019",
-      "price": 11500,
-      "loc": "Dalarna",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/quot-racer-quot-trek-domane-al-5-2019.338511/",
       "size": "L"
     },
     {
@@ -260,6 +250,16 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/6002",
       "size": "58 cm"
+    },
+    {
+      "id": "hr-339563",
+      "brand": "Trek",
+      "title": "Trek Speedconcept - Large - ENVE SES & Dura Ace di2",
+      "price": 29900,
+      "loc": "Stockholm",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/trek-speedconcept-large-enve-ses-amp-dura-ace-di2.339563/",
+      "size": "L"
     },
     {
       "id": "hr-333537",
