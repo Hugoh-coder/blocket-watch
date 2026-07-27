@@ -1,36 +1,7 @@
 {
   "profile": "xl61",
-  "items": [
-    {
-      "id": "24979263",
-      "brand": "Canyon",
-      "title": "Canyon Endurace CF 7 strl. XXL - 2022",
-      "price": 17000,
-      "loc": "Rockneby",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/24979263",
-      "size": "XL"
-    },
-    {
-      "id": "25057173",
-      "brand": "Canyon",
-      "title": "Canyon Ultimate CF SL 7 Disc - 2XL",
-      "price": 21000,
-      "loc": "Täby",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25057173",
-      "size": "XL"
-    },
-    {
-      "id": "24905251",
-      "brand": "Trek",
-      "title": "Trek Domane 4.5 Carbon – 62 cm – Shimano Ultegra",
-      "price": 10900,
-      "loc": "Mariestad",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/24905251",
-      "size": "62 cm"
-    }
-  ],
-  "errors": []
+  "items": [],
+  "errors": [
+    "blocket: Client error '403 Forbidden' for url 'https://www.blocket.se/recommerce/forsale/search/api/search/SEARCH_ID_BAP_COMMON?q=Trek&page=1&sort=RELEVANCE&sub_category=1.69.3963'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+  ]
 }
