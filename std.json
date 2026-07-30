@@ -52,16 +52,6 @@
       "size": "57 cm"
     },
     {
-      "id": "23683507",
-      "brand": "Bianchi",
-      "title": "Bianchi landsvägscykel 28\"",
-      "price": 17000,
-      "loc": "Karlstad",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/23683507",
-      "size": "L"
-    },
-    {
       "id": "fb-4448321155433150",
       "brand": "Bianchi",
       "title": "Bianchi Via Nirone 7 105 Disc",
@@ -90,6 +80,16 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/24979263",
       "size": "XL"
+    },
+    {
+      "id": "25231041",
+      "brand": "Canyon",
+      "title": "CANYON Ultimate CF SL Disc 9 Aero säljes i befintligt skick.",
+      "price": 21000,
+      "loc": "Tingsryd",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25231041",
+      "size": "L"
     },
     {
       "id": "25147416",
@@ -179,16 +179,6 @@
       "loc": "Stockholm",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/specialized-aethos-s-works-quot-ready-to-paint-quot-stl-58.334979/",
-      "size": "58 cm"
-    },
-    {
-      "id": "25169596",
-      "brand": "Trek",
-      "title": "Trek domane AL4 generation 4",
-      "price": 11000,
-      "loc": "Växjö",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25169596",
       "size": "58 cm"
     },
     {
