@@ -12,26 +12,6 @@
       "size": "57 cm"
     },
     {
-      "id": "hr-338532",
-      "brand": "Bianchi",
-      "title": "Bianchi Infinito CV 57 – Shimano Ultegra – Nyservad",
-      "price": 12900,
-      "loc": "Stockholm",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/bianchi-infinito-cv-57-shimano-ultegra-nyservad.338532/",
-      "size": "L"
-    },
-    {
-      "id": "hr-338240",
-      "brand": "Bianchi",
-      "title": "Bianchi intenso",
-      "price": 14000,
-      "loc": "Göteborg",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/bianchi-intenso.338240/",
-      "size": "L"
-    },
-    {
       "id": "151743",
       "brand": "Bianchi",
       "title": "BIANCHI RACER VIA NIRONE 7 Disc 105 11x2 vxl REA",
@@ -112,16 +92,6 @@
       "size": "L"
     },
     {
-      "id": "fb-1784949602945729",
-      "brand": "Specialized",
-      "title": "Specialized Tarmac racercykel",
-      "price": 15000,
-      "loc": "Stockholm",
-      "src": "Facebook",
-      "url": "https://www.facebook.com/marketplace/item/1784949602945729",
-      "size": "L"
-    },
-    {
       "id": "hr-338758",
       "brand": "Specialized",
       "title": "Specialized Allez Sprint",
@@ -145,7 +115,7 @@
       "id": "hr-336855",
       "brand": "Specialized",
       "title": "Specialized Tarmac med Zipphjul 404",
-      "price": 22500,
+      "price": 20000,
       "loc": "Stockholm",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/specialized-tarmac-med-zipphjul-404.336855/",
@@ -182,6 +152,16 @@
       "size": "58 cm"
     },
     {
+      "id": "hr-340457",
+      "brand": "Trek",
+      "title": "Trek Émonda S 6 - 58/L",
+      "price": 12500,
+      "loc": "Örebro",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/trek-emonda-s-6-58-l.340457/",
+      "size": "L"
+    },
+    {
       "id": "24812090",
       "brand": "Trek",
       "title": "Trek Madone 4.7 Carbon 60 real 58. Första ägaren, kvitto & tillbehör medföljer",
@@ -192,10 +172,20 @@
       "size": "58 cm"
     },
     {
+      "id": "fb-1373711871560404",
+      "brand": "Trek",
+      "title": "Trek madone 4,7 Carbon 60( real 58) shimano ultegra",
+      "price": 12700,
+      "loc": "Gustavsberg",
+      "src": "Facebook",
+      "url": "https://www.facebook.com/marketplace/item/1373711871560404",
+      "size": "58 cm"
+    },
+    {
       "id": "25183391",
       "brand": "Trek",
       "title": "Trek Emonda SL 6 / Carbon / Ultegra",
-      "price": 16500,
+      "price": 15900,
       "loc": "Stockholm",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/25183391",
@@ -232,16 +222,6 @@
       "size": "58 cm"
     },
     {
-      "id": "hr-331802",
-      "brand": "Trek",
-      "title": "Trek Domane Koppenberg – Race Shop Limited build",
-      "price": 27500,
-      "loc": "Dalarna",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/trek-domane-koppenberg-race-shop-limited-build.331802/",
-      "size": "L"
-    },
-    {
       "id": "6002",
       "brand": "Trek",
       "title": "Trek Domane SL 5 Gen 4",
@@ -259,16 +239,6 @@
       "loc": "Stockholm",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/trek-speedconcept-large-enve-ses-amp-dura-ace-di2.339563/",
-      "size": "L"
-    },
-    {
-      "id": "fb-1504169988126478",
-      "brand": "Trek",
-      "title": "Trek Speed Concept 2020 - Large - Ultegra Di2 – Vision Metron 55/81 – 51 Speedshop Aero Cockpit",
-      "price": 30000,
-      "loc": "Stockholm",
-      "src": "Facebook",
-      "url": "https://www.facebook.com/marketplace/item/1504169988126478",
       "size": "L"
     }
   ],
