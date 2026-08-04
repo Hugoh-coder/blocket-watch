@@ -2,14 +2,24 @@
   "profile": "xl61",
   "items": [
     {
-      "id": "24812090",
-      "brand": "Trek",
-      "title": "Trek Madone 4.7 Carbon 60 real 58. Första ägaren, kvitto & tillbehör medföljer",
-      "price": 12700,
-      "loc": "Värmdö",
+      "id": "25376443",
+      "brand": "Canyon",
+      "title": "Canyon Endurace CF 7 – Storlek XL – Mycket fint skick",
+      "price": 21500,
+      "loc": "Västra Frölunda",
       "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/24812090",
-      "size": "58 cm"
+      "url": "https://www.blocket.se/recommerce/forsale/item/25376443",
+      "size": "XL"
+    },
+    {
+      "id": "hr-340843",
+      "brand": "Canyon",
+      "title": "Canyon Endurace CF 7 – Storlek XL – Mycket fint skick",
+      "price": 21500,
+      "loc": "Göteborg",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/canyon-endurace-cf-7-storlek-xl-mycket-fint-skick.340843/",
+      "size": "XL"
     }
   ],
   "errors": [

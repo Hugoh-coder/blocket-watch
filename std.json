@@ -22,6 +22,16 @@
       "size": "57 cm"
     },
     {
+      "id": "25366989",
+      "brand": "Bianchi",
+      "title": "Bianchi Aria 57cm 105 2x11",
+      "price": 16500,
+      "loc": "Kode",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25366989",
+      "size": "57 cm"
+    },
+    {
       "id": "21178493",
       "brand": "Bianchi",
       "title": "Bianchi Vertigo 130års edition strl 57 / L",
@@ -42,24 +52,24 @@
       "size": "57 cm"
     },
     {
-      "id": "25231041",
-      "brand": "Canyon",
-      "title": "CANYON Ultimate CF SL Disc 9 Aero säljes i befintligt skick.",
-      "price": 21000,
-      "loc": "Tingsryd",
+      "id": "25348471",
+      "brand": "Bianchi",
+      "title": "Bianchi landsvägscykel",
+      "price": 27000,
+      "loc": "Skarpnäck",
       "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25231041",
-      "size": "L"
+      "url": "https://www.blocket.se/recommerce/forsale/item/25348471",
+      "size": "57 cm"
     },
     {
-      "id": "25147416",
+      "id": "25376443",
       "brand": "Canyon",
-      "title": "Canyon Ultimate CF SL 7",
-      "price": 22000,
-      "loc": "Tyresö",
+      "title": "Canyon Endurace CF 7 – Storlek XL – Mycket fint skick",
+      "price": 21500,
+      "loc": "Västra Frölunda",
       "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25147416",
-      "size": "L"
+      "url": "https://www.blocket.se/recommerce/forsale/item/25376443",
+      "size": "XL"
     },
     {
       "id": "24425132",
@@ -79,26 +89,6 @@
       "loc": "Blekinge",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/specialized-tarmac-comp.339810/",
-      "size": "L"
-    },
-    {
-      "id": "24965890",
-      "brand": "Specialized",
-      "title": "Helt ny Specialized Allez E5 comp",
-      "price": 18000,
-      "loc": "Djurmo",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/24965890",
-      "size": "58 cm"
-    },
-    {
-      "id": "hr-336855",
-      "brand": "Specialized",
-      "title": "Specialized Tarmac med Zipphjul 404",
-      "price": 20000,
-      "loc": "Stockholm",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/specialized-tarmac-med-zipphjul-404.336855/",
       "size": "L"
     },
     {
@@ -122,16 +112,6 @@
       "size": "58 cm"
     },
     {
-      "id": "25169414",
-      "brand": "Trek",
-      "title": "Trek landsvägscykel 58 cm 28\" unisex",
-      "price": 12500,
-      "loc": "Domsjö",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25169414",
-      "size": "58 cm"
-    },
-    {
       "id": "hr-340457",
       "brand": "Trek",
       "title": "Trek Émonda S 6 - 58/L",
@@ -142,26 +122,6 @@
       "size": "L"
     },
     {
-      "id": "24812090",
-      "brand": "Trek",
-      "title": "Trek Madone 4.7 Carbon 60 real 58. Första ägaren, kvitto & tillbehör medföljer",
-      "price": 12700,
-      "loc": "Värmdö",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/24812090",
-      "size": "58 cm"
-    },
-    {
-      "id": "25183391",
-      "brand": "Trek",
-      "title": "Trek Emonda SL 6 / Carbon / Ultegra",
-      "price": 15900,
-      "loc": "Stockholm",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25183391",
-      "size": "58 cm"
-    },
-    {
       "id": "hr-339716",
       "brand": "Trek",
       "title": "Trek Emonda SL6 Ultegra DI2",
@@ -169,6 +129,16 @@
       "loc": "Skåne",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/trek-emonda-sl6-ultegra-di2.339716/",
+      "size": "L"
+    },
+    {
+      "id": "24036753",
+      "brand": "Trek",
+      "title": "Trek Emonda SL6 disc Pro",
+      "price": 25000,
+      "loc": "Mjölby",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/24036753",
       "size": "L"
     },
     {
