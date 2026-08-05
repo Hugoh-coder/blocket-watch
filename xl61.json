@@ -2,16 +2,6 @@
   "profile": "xl61",
   "items": [
     {
-      "id": "25376443",
-      "brand": "Canyon",
-      "title": "Canyon Endurace CF 7 – Storlek XL – Mycket fint skick",
-      "price": 21500,
-      "loc": "Västra Frölunda",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25376443",
-      "size": "XL"
-    },
-    {
       "id": "hr-340843",
       "brand": "Canyon",
       "title": "Canyon Endurace CF 7 – Storlek XL – Mycket fint skick",
@@ -23,6 +13,7 @@
     }
   ],
   "errors": [
+    "blocket: Client error '403 Forbidden' for url 'https://www.blocket.se/recommerce/forsale/search/api/search/SEARCH_ID_BAP_COMMON?q=Trek&page=1&sort=RELEVANCE&sub_category=1.69.3963'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
     "facebook: HTTP Error 403: Forbidden"
   ]
 }
