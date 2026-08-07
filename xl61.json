@@ -2,6 +2,16 @@
   "profile": "xl61",
   "items": [
     {
+      "id": "25449315",
+      "brand": "Bianchi",
+      "title": "Bianchi landsvägscykel XXL",
+      "price": 17500,
+      "loc": "Karlskrona",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25449315",
+      "size": "XL"
+    },
+    {
       "id": "25376443",
       "brand": "Canyon",
       "title": "Canyon Endurace CF 7 – Storlek XL – Mycket fint skick",
@@ -20,6 +30,16 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/canyon-endurace-cf-7-storlek-xl-mycket-fint-skick.340843/",
       "size": "XL"
+    },
+    {
+      "id": "25452807",
+      "brand": "Trek",
+      "title": "Trek Émonda SL 5 Disc silver",
+      "price": 25000,
+      "loc": "Bromma",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25452807",
+      "size": "62 cm"
     }
   ],
   "errors": [
