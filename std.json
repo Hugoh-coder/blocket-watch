@@ -102,16 +102,6 @@
       "size": "L"
     },
     {
-      "id": "25376443",
-      "brand": "Canyon",
-      "title": "Canyon Endurace CF 7 – Storlek XL – Mycket fint skick",
-      "price": 21500,
-      "loc": "Västra Frölunda",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25376443",
-      "size": "XL"
-    },
-    {
       "id": "24425132",
       "brand": "Canyon",
       "title": "Canyon Endurace CF 7 AXS",
@@ -160,6 +150,16 @@
       "src": "Sportson",
       "url": "https://www.sportson.se/produkt/begagnad-domane-al-4-gen-4-era-white-58cm",
       "size": "58 cm"
+    },
+    {
+      "id": "hr-341530",
+      "brand": "Trek",
+      "title": "Trek Domane S5 Disc",
+      "price": 12000,
+      "loc": "Stockholm",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/trek-domane-s5-disc.341530/",
+      "size": "L"
     },
     {
       "id": "hr-340457",
