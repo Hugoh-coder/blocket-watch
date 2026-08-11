@@ -2,6 +2,16 @@
   "profile": "std",
   "items": [
     {
+      "id": "25482313",
+      "brand": "Bianchi",
+      "title": "Bianchi landsvägscykel 28\"/700c unisex svart/turkos",
+      "price": 10500,
+      "loc": "Sunnansjö",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25482313",
+      "size": "57 cm"
+    },
+    {
       "id": "24643915",
       "brand": "Bianchi",
       "title": "Bianchi Impulso landsvägscykel med ultegraväxlar",
@@ -9,16 +19,6 @@
       "loc": "Uppsala",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/24643915",
-      "size": "57 cm"
-    },
-    {
-      "id": "25482313",
-      "brand": "Bianchi",
-      "title": "Bianchi landsvägscykel 28\"/700c unisex svart/turkos",
-      "price": 11000,
-      "loc": "Sunnansjö",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25482313",
       "size": "57 cm"
     },
     {
@@ -92,6 +92,16 @@
       "size": "57 cm"
     },
     {
+      "id": "25600516",
+      "brand": "Canyon",
+      "title": "Canyon Ultimate f10",
+      "price": 11000,
+      "loc": "Malmö",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25600516",
+      "size": "58 cm"
+    },
+    {
       "id": "25397942",
       "brand": "Canyon",
       "title": "Landsvägscykel - Canyon Ultimate cf slx - Dura Ace",
@@ -112,13 +122,13 @@
       "size": "L"
     },
     {
-      "id": "hr-339810",
+      "id": "hr-341747",
       "brand": "Specialized",
-      "title": "Specialized Tarmac Comp",
-      "price": 12500,
-      "loc": "Blekinge",
+      "title": "Specialized Allez 56",
+      "price": 10000,
+      "loc": "Stockholm",
       "src": "Happyride",
-      "url": "https://happyride.se/annonser/specialized-tarmac-comp.339810/",
+      "url": "https://happyride.se/annonser/specialized-allez-56.341747/",
       "size": "L"
     },
     {
@@ -129,6 +139,16 @@
       "loc": "Dalarna",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/specialized-s-works-tarmac-sl4.340977/",
+      "size": "L"
+    },
+    {
+      "id": "hr-336855",
+      "brand": "Specialized",
+      "title": "Specialized Tarmac med Zipphjul 404",
+      "price": 20000,
+      "loc": "Stockholm",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/specialized-tarmac-med-zipphjul-404.336855/",
       "size": "L"
     },
     {
@@ -202,16 +222,6 @@
       "size": "58 cm"
     },
     {
-      "id": "hr-339716",
-      "brand": "Trek",
-      "title": "Trek Emonda SL6 Ultegra DI2",
-      "price": 18000,
-      "loc": "Skåne",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/trek-emonda-sl6-ultegra-di2.339716/",
-      "size": "L"
-    },
-    {
       "id": "25408704",
       "brand": "Trek",
       "title": "Trek Emonda SL 5",
@@ -232,16 +242,6 @@
       "size": "L"
     },
     {
-      "id": "25480530",
-      "brand": "Trek",
-      "title": "Trek landsvägscykel 28\" L unisex röd",
-      "price": 26200,
-      "loc": "Sundsvall",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25480530",
-      "size": "L"
-    },
-    {
       "id": "6002",
       "brand": "Trek",
       "title": "Trek Domane SL 5 Gen 4",
@@ -250,16 +250,6 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/6002",
       "size": "62 cm"
-    },
-    {
-      "id": "hr-339563",
-      "brand": "Trek",
-      "title": "Trek Speedconcept - Large - ENVE SES & Dura Ace di2",
-      "price": 29900,
-      "loc": "Stockholm",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/trek-speedconcept-large-enve-ses-amp-dura-ace-di2.339563/",
-      "size": "L"
     },
     {
       "id": "hr-333537",
