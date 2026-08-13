@@ -72,6 +72,16 @@
       "size": "57 cm"
     },
     {
+      "id": "25656613",
+      "brand": "Bianchi",
+      "title": "Bianchi Oltre Race",
+      "price": 20000,
+      "loc": "Luleå",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25656613",
+      "size": "L"
+    },
+    {
       "id": "25348471",
       "brand": "Bianchi",
       "title": "Bianchi landsvägscykel",
@@ -132,16 +142,6 @@
       "size": "L"
     },
     {
-      "id": "hr-341747",
-      "brand": "Specialized",
-      "title": "Specialized Allez 56",
-      "price": 10000,
-      "loc": "Stockholm",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/specialized-allez-56.341747/",
-      "size": "L"
-    },
-    {
       "id": "hr-339810",
       "brand": "Specialized",
       "title": "Specialized Tarmac Comp",
@@ -192,13 +192,13 @@
       "size": "58 cm"
     },
     {
-      "id": "hr-341618",
-      "brand": "Specialized",
-      "title": "Specialized Aethos Expert Deep Lake/Green Pearl 2025 (storlek 58) 10r Carbon.",
-      "price": 30000,
-      "loc": "Stockholm",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/specialized-aethos-expert-deep-lake-green-pearl-2025-storlek-58-10r-carbon.341618/",
+      "id": "25450890",
+      "brand": "Trek",
+      "title": "Trek Madone 5.9 Kolfiber",
+      "price": 11250,
+      "loc": "Österskär",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25450890",
       "size": "58 cm"
     },
     {
@@ -222,14 +222,14 @@
       "size": "L"
     },
     {
-      "id": "25450890",
+      "id": "hr-339716",
       "brand": "Trek",
-      "title": "Trek Madone 5.9 Kolfiber",
-      "price": 12900,
-      "loc": "Österskär",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25450890",
-      "size": "58 cm"
+      "title": "Trek Emonda SL6 Ultegra DI2",
+      "price": 18000,
+      "loc": "Skåne",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/trek-emonda-sl6-ultegra-di2.339716/",
+      "size": "L"
     },
     {
       "id": "25408704",
@@ -252,17 +252,25 @@
       "size": "62 cm"
     },
     {
+      "id": "hr-339563",
+      "brand": "Trek",
+      "title": "Trek Speedconcept - Large - ENVE SES & Dura Ace di2",
+      "price": 29900,
+      "loc": "Stockholm",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/trek-speedconcept-large-enve-ses-amp-dura-ace-di2.339563/",
+      "size": "L"
+    },
+    {
       "id": "hr-333537",
       "brand": "Trek",
-      "title": "Trek Madone slr  factory racing",
+      "title": "Trek Madone slr 7 factory racing",
       "price": 30000,
       "loc": "Jönköping",
       "src": "Happyride",
-      "url": "https://happyride.se/annonser/trek-madone-slr-factory-racing.333537/",
+      "url": "https://happyride.se/annonser/trek-madone-slr-7-factory-racing.333537/",
       "size": "L"
     }
   ],
-  "errors": [
-    "facebook: HTTP Error 403: Forbidden"
-  ]
+  "errors": []
 }
