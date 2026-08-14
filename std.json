@@ -5,7 +5,7 @@
       "id": "25482313",
       "brand": "Bianchi",
       "title": "Bianchi landsvägscykel 28\"/700c unisex svart/turkos",
-      "price": 10500,
+      "price": 10250,
       "loc": "Sunnansjö",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/25482313",
@@ -192,6 +192,16 @@
       "size": "58 cm"
     },
     {
+      "id": "25673650",
+      "brand": "Trek",
+      "title": "TREK EMONDA ALR4 stl L",
+      "price": 11000,
+      "loc": "Strömsholm",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25673650",
+      "size": "L"
+    },
+    {
       "id": "25450890",
       "brand": "Trek",
       "title": "Trek Madone 5.9 Kolfiber",
@@ -232,16 +242,6 @@
       "size": "L"
     },
     {
-      "id": "25408704",
-      "brand": "Trek",
-      "title": "Trek Emonda SL 5",
-      "price": 19500,
-      "loc": "Göteborg",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25408704",
-      "size": "L"
-    },
-    {
       "id": "6002",
       "brand": "Trek",
       "title": "Trek Domane SL 5 Gen 4",
@@ -250,16 +250,6 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/6002",
       "size": "62 cm"
-    },
-    {
-      "id": "hr-339563",
-      "brand": "Trek",
-      "title": "Trek Speedconcept - Large - ENVE SES & Dura Ace di2",
-      "price": 29900,
-      "loc": "Stockholm",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/trek-speedconcept-large-enve-ses-amp-dura-ace-di2.339563/",
-      "size": "L"
     },
     {
       "id": "hr-333537",
