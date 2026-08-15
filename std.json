@@ -202,16 +202,6 @@
       "size": "L"
     },
     {
-      "id": "25450890",
-      "brand": "Trek",
-      "title": "Trek Madone 5.9 Kolfiber",
-      "price": 11250,
-      "loc": "Österskär",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25450890",
-      "size": "58 cm"
-    },
-    {
       "id": "hr-341530",
       "brand": "Trek",
       "title": "Trek Domane S5 Disc",
@@ -232,13 +222,23 @@
       "size": "L"
     },
     {
-      "id": "hr-339716",
+      "id": "25700736",
       "brand": "Trek",
-      "title": "Trek Emonda SL6 Ultegra DI2",
-      "price": 18000,
-      "loc": "Skåne",
+      "title": "Trek Emonda Ultegra 58 cm",
+      "price": 13500,
+      "loc": "Torekov",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25700736",
+      "size": "58 cm"
+    },
+    {
+      "id": "hr-342163",
+      "brand": "Trek",
+      "title": "Custom Émonda Dura Ace",
+      "price": 17500,
+      "loc": "Halland",
       "src": "Happyride",
-      "url": "https://happyride.se/annonser/trek-emonda-sl6-ultegra-di2.339716/",
+      "url": "https://happyride.se/annonser/custom-emonda-dura-ace.342163/",
       "size": "L"
     },
     {
@@ -250,6 +250,16 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/6002",
       "size": "62 cm"
+    },
+    {
+      "id": "25698907",
+      "brand": "Trek",
+      "title": "Trek Madone SL 6 Gen 8 M/L",
+      "price": 29995,
+      "loc": "Ljungskile",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25698907",
+      "size": "L"
     },
     {
       "id": "hr-333537",
