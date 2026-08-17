@@ -22,13 +22,13 @@
       "size": "57 cm"
     },
     {
-      "id": "25447957",
+      "id": "25746051",
       "brand": "Bianchi",
-      "title": "Bianchi Impulso landsvägscykel stl 57 28\" unisex",
-      "price": 13000,
-      "loc": "Huddinge",
+      "title": "Bianchi Oltre XR1",
+      "price": 16000,
+      "loc": "Kristinehamn",
       "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25447957",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25746051",
       "size": "57 cm"
     },
     {
@@ -39,16 +39,6 @@
       "loc": "Tvååker",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/151743",
-      "size": "57 cm"
-    },
-    {
-      "id": "25366989",
-      "brand": "Bianchi",
-      "title": "Bianchi Aria 57cm 105 2x11",
-      "price": 16500,
-      "loc": "Kode",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25366989",
       "size": "57 cm"
     },
     {
@@ -99,6 +89,16 @@
       "loc": "Trångsund",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/25350781",
+      "size": "57 cm"
+    },
+    {
+      "id": "25769184",
+      "brand": "Bianchi",
+      "title": "Bianchi Oltre XR4 landsvägscykel 57 cm svart/turkos unisex",
+      "price": 25000,
+      "loc": "Örebro",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25769184",
       "size": "57 cm"
     },
     {
@@ -192,6 +192,16 @@
       "size": "L"
     },
     {
+      "id": "25778807",
+      "brand": "Trek",
+      "title": "Trek racer stl 58 - Domane AL 2 gen 4",
+      "price": 12000,
+      "loc": "Mölndal",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25778807",
+      "size": "58 cm"
+    },
+    {
       "id": "hr-341530",
       "brand": "Trek",
       "title": "Trek Domane S5 Disc",
@@ -222,6 +232,16 @@
       "size": "58 cm"
     },
     {
+      "id": "25777006",
+      "brand": "Trek",
+      "title": "Trek Emonda SL 6 / Karbon / Ultegra / 7.8kg",
+      "price": 15900,
+      "loc": "Stockholm",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25777006",
+      "size": "58 cm"
+    },
+    {
       "id": "hr-342163",
       "brand": "Trek",
       "title": "Custom Émonda Dura Ace",
@@ -240,6 +260,16 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/6002",
       "size": "62 cm"
+    },
+    {
+      "id": "25755219",
+      "brand": "Trek",
+      "title": "Trek domane Gen 5",
+      "price": 29995,
+      "loc": "Linköping",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25755219",
+      "size": "L"
     },
     {
       "id": "25698907",
