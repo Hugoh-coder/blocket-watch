@@ -132,6 +132,16 @@
       "size": "L"
     },
     {
+      "id": "hr-342595",
+      "brand": "Canyon",
+      "title": "Canyon Speedmax CF - Storlek Large",
+      "price": 19500,
+      "loc": "Stockholm",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/canyon-speedmax-cf-storlek-large.342595/",
+      "size": "L"
+    },
+    {
       "id": "24425132",
       "brand": "Canyon",
       "title": "Canyon Endurace CF 7 AXS",
@@ -139,6 +149,16 @@
       "loc": "Stockholm",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/24425132",
+      "size": "L"
+    },
+    {
+      "id": "hr-342619",
+      "brand": "Specialized",
+      "title": "S-works tarmac 2013",
+      "price": 16000,
+      "loc": "Västernorrland",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/s-works-tarmac-2013.342619/",
       "size": "L"
     },
     {
@@ -150,26 +170,6 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/specialized-s-works-tarmac-sl4.340977/",
       "size": "L"
-    },
-    {
-      "id": "hr-336855",
-      "brand": "Specialized",
-      "title": "Specialized Tarmac med Zipphjul 404",
-      "price": 20000,
-      "loc": "Stockholm",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/specialized-tarmac-med-zipphjul-404.336855/",
-      "size": "L"
-    },
-    {
-      "id": "hr-334979",
-      "brand": "Specialized",
-      "title": "Specialized Aethos S-Works \"Ready-to-paint\" (stl 58)",
-      "price": 28000,
-      "loc": "Stockholm",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/specialized-aethos-s-works-quot-ready-to-paint-quot-stl-58.334979/",
-      "size": "58 cm"
     },
     {
       "id": "23942695",
@@ -226,7 +226,7 @@
       "brand": "Trek",
       "title": "Trek Emonda Ultegra 58 cm",
       "price": 13500,
-      "loc": "Torekov",
+      "loc": "Förslöv",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/25700736",
       "size": "58 cm"
@@ -235,7 +235,7 @@
       "id": "25777006",
       "brand": "Trek",
       "title": "Trek Emonda SL 6 / Karbon / Ultegra / 7.8kg",
-      "price": 15900,
+      "price": 14900,
       "loc": "Stockholm",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/25777006",
