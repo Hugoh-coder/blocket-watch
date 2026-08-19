@@ -52,6 +52,16 @@
       "size": "XL"
     },
     {
+      "id": "hr-342713",
+      "brand": "Bianchi",
+      "title": "Bianchi Specialissima",
+      "price": 18000,
+      "loc": "Örebro",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/bianchi-specialissima.342713/",
+      "size": "L"
+    },
+    {
       "id": "21178493",
       "brand": "Bianchi",
       "title": "Bianchi Vertigo 130års edition strl 57 / L",
@@ -152,6 +162,16 @@
       "size": "L"
     },
     {
+      "id": "hr-340977",
+      "brand": "Specialized",
+      "title": "Specialized S-Works Tarmac sl4",
+      "price": 15000,
+      "loc": "Dalarna",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/specialized-s-works-tarmac-sl4.340977/",
+      "size": "L"
+    },
+    {
       "id": "hr-342619",
       "brand": "Specialized",
       "title": "S-works tarmac 2013",
@@ -160,26 +180,6 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/s-works-tarmac-2013.342619/",
       "size": "L"
-    },
-    {
-      "id": "hr-340977",
-      "brand": "Specialized",
-      "title": "Specialized S-Works Tarmac sl4",
-      "price": 16000,
-      "loc": "Dalarna",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/specialized-s-works-tarmac-sl4.340977/",
-      "size": "L"
-    },
-    {
-      "id": "23942695",
-      "brand": "Specialized",
-      "title": "Specialized Aethos S-Works \"Ready-to-paint\" (stl 58)",
-      "price": 28500,
-      "loc": "Bromma",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/23942695",
-      "size": "58 cm"
     },
     {
       "id": "25673650",
@@ -269,16 +269,6 @@
       "loc": "Linköping",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/25755219",
-      "size": "L"
-    },
-    {
-      "id": "25698907",
-      "brand": "Trek",
-      "title": "Trek Madone SL 6 Gen 8 M/L",
-      "price": 29995,
-      "loc": "Ljungskile",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25698907",
       "size": "L"
     },
     {
