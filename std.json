@@ -72,16 +72,6 @@
       "size": "57 cm"
     },
     {
-      "id": "25656613",
-      "brand": "Bianchi",
-      "title": "Bianchi Oltre Race",
-      "price": 20000,
-      "loc": "Luleå",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25656613",
-      "size": "L"
-    },
-    {
       "id": "25348471",
       "brand": "Bianchi",
       "title": "Bianchi landsvägscykel",
@@ -95,20 +85,20 @@
       "id": "25350781",
       "brand": "Bianchi",
       "title": "Bianchi Oltre XR3",
-      "price": 23500,
+      "price": 22000,
       "loc": "Trångsund",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/25350781",
       "size": "57 cm"
     },
     {
-      "id": "25769184",
+      "id": "25831672",
       "brand": "Bianchi",
-      "title": "Bianchi Oltre XR4 landsvägscykel 57 cm svart/turkos unisex",
-      "price": 25000,
-      "loc": "Örebro",
+      "title": "Bianchi Sprint - landsvägcykel",
+      "price": 23000,
+      "loc": "Falun",
       "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25769184",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25831672",
       "size": "57 cm"
     },
     {
@@ -145,7 +135,7 @@
       "id": "hr-342595",
       "brand": "Canyon",
       "title": "Canyon Speedmax CF - Storlek Large",
-      "price": 19500,
+      "price": 18000,
       "loc": "Stockholm",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/canyon-speedmax-cf-storlek-large.342595/",
@@ -160,6 +150,16 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/24425132",
       "size": "L"
+    },
+    {
+      "id": "23776712",
+      "brand": "Specialized",
+      "title": "Specialized Tarmac 2014 – Ramstorlek 58",
+      "price": 14500,
+      "loc": "Lidingö",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/23776712",
+      "size": "58 cm"
     },
     {
       "id": "hr-340977",
@@ -235,7 +235,7 @@
       "id": "25777006",
       "brand": "Trek",
       "title": "Trek Emonda SL 6 / Karbon / Ultegra / 7.8kg",
-      "price": 14900,
+      "price": 14500,
       "loc": "Stockholm",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/25777006",
@@ -249,6 +249,16 @@
       "loc": "Halland",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/custom-emonda-dura-ace.342163/",
+      "size": "L"
+    },
+    {
+      "id": "hr-342765",
+      "brand": "Trek",
+      "title": "Trek Domane SL 5",
+      "price": 20000,
+      "loc": "Skåne",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/trek-domane-sl-5.342765/",
       "size": "L"
     },
     {
