@@ -2,6 +2,16 @@
   "profile": "xl61",
   "items": [
     {
+      "id": "25878002",
+      "brand": "Bianchi",
+      "title": "Bianchi via Nirone 7 105 XL (61 cm) + ENVE hjulset",
+      "price": 13000,
+      "loc": "Göteborg",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25878002",
+      "size": "61 cm"
+    },
+    {
       "id": "hr-342485",
       "brand": "Bianchi",
       "title": "Bianchi Via Nirone 7 105, 2024 - storlek 59",
@@ -32,14 +42,14 @@
       "size": "XL"
     },
     {
-      "id": "25675381",
+      "id": "hr-342949",
       "brand": "Trek",
-      "title": "Trek Emonda SL5 - 60cm - Shimano 105",
-      "price": 17000,
-      "loc": "Ekerö",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25675381",
-      "size": "60 cm"
+      "title": "Trek Emonda SL6 + Vision Metron 40 LTD",
+      "price": 12000,
+      "loc": "Västra Götaland",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/trek-emonda-sl6-vision-metron-40-ltd.342949/",
+      "size": "XL"
     }
   ],
   "errors": []
