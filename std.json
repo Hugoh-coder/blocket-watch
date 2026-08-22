@@ -72,20 +72,10 @@
       "size": "57 cm"
     },
     {
-      "id": "25348471",
-      "brand": "Bianchi",
-      "title": "Bianchi landsvägscykel",
-      "price": 22000,
-      "loc": "Skarpnäck",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25348471",
-      "size": "57 cm"
-    },
-    {
       "id": "25350781",
       "brand": "Bianchi",
       "title": "Bianchi Oltre XR3",
-      "price": 22000,
+      "price": 20000,
       "loc": "Trångsund",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/25350781",
@@ -130,16 +120,6 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/25562127",
       "size": "XL"
-    },
-    {
-      "id": "25397942",
-      "brand": "Canyon",
-      "title": "Landsvägscykel - Canyon Ultimate cf slx - Dura Ace",
-      "price": 15000,
-      "loc": "Göteborg",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25397942",
-      "size": "L"
     },
     {
       "id": "hr-342595",
@@ -192,6 +172,26 @@
       "size": "L"
     },
     {
+      "id": "hr-342195",
+      "brand": "Specialized",
+      "title": "S-Works Venge, Uppgraderad, Stl L",
+      "price": 29000,
+      "loc": "Uppsala",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/s-works-venge-uppgraderad-stl-l.342195/",
+      "size": "L"
+    },
+    {
+      "id": "25916080",
+      "brand": "Trek",
+      "title": "Trek Domane 4.3 2014",
+      "price": 11500,
+      "loc": "Hässelby",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25916080",
+      "size": "58 cm"
+    },
+    {
       "id": "25778807",
       "brand": "Trek",
       "title": "Trek racer stl 58 - Domane AL 2 gen 4",
@@ -222,16 +222,6 @@
       "size": "L"
     },
     {
-      "id": "25700736",
-      "brand": "Trek",
-      "title": "Trek Emonda Ultegra 58 cm",
-      "price": 13500,
-      "loc": "Förslöv",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25700736",
-      "size": "58 cm"
-    },
-    {
       "id": "25777006",
       "brand": "Trek",
       "title": "Trek Emonda SL 6 / Karbon / Ultegra / 7.8kg",
@@ -240,16 +230,6 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/25777006",
       "size": "58 cm"
-    },
-    {
-      "id": "hr-342163",
-      "brand": "Trek",
-      "title": "Custom Émonda Dura Ace",
-      "price": 17500,
-      "loc": "Halland",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/custom-emonda-dura-ace.342163/",
-      "size": "L"
     },
     {
       "id": "hr-342765",
@@ -312,5 +292,7 @@
       "size": "L"
     }
   ],
-  "errors": []
+  "errors": [
+    "facebook: HTTP Error 400: Bad Request"
+  ]
 }
