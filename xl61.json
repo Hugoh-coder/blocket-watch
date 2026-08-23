@@ -22,16 +22,6 @@
       "size": "59 cm"
     },
     {
-      "id": "25449315",
-      "brand": "Bianchi",
-      "title": "Bianchi landsvägscykel XXL",
-      "price": 17500,
-      "loc": "Karlskrona",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25449315",
-      "size": "XL"
-    },
-    {
       "id": "25562127",
       "brand": "Canyon",
       "title": "Canyon landsvägscykel Xl 28\" unisex",
@@ -50,6 +40,16 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/trek-emonda-sl6-vision-metron-40-ltd.342949/",
       "size": "XL"
+    },
+    {
+      "id": "25807150",
+      "brand": "Trek",
+      "title": "Trek Domane AL 2 Gen 3  storlek 61 – HUNT 50 kolfiberhjul",
+      "price": 25000,
+      "loc": "Tumba",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25807150",
+      "size": "61 cm"
     }
   ],
   "errors": []

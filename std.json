@@ -12,6 +12,16 @@
       "size": "57 cm"
     },
     {
+      "id": "25940964",
+      "brand": "Bianchi",
+      "title": "Bianchi Oltre XR1",
+      "price": 12000,
+      "loc": "Örebro",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25940964",
+      "size": "57 cm"
+    },
+    {
       "id": "25878002",
       "brand": "Bianchi",
       "title": "Bianchi via Nirone 7 105 XL (61 cm) + ENVE hjulset",
@@ -42,16 +52,6 @@
       "size": "57 cm"
     },
     {
-      "id": "25449315",
-      "brand": "Bianchi",
-      "title": "Bianchi landsvägscykel XXL",
-      "price": 17500,
-      "loc": "Karlskrona",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25449315",
-      "size": "XL"
-    },
-    {
       "id": "hr-342713",
       "brand": "Bianchi",
       "title": "Bianchi Specialissima",
@@ -60,16 +60,6 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/bianchi-specialissima.342713/",
       "size": "L"
-    },
-    {
-      "id": "21178493",
-      "brand": "Bianchi",
-      "title": "Bianchi Vertigo 130års edition strl 57 / L",
-      "price": 19500,
-      "loc": "Rönninge",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/21178493",
-      "size": "57 cm"
     },
     {
       "id": "25350781",
@@ -122,16 +112,6 @@
       "size": "XL"
     },
     {
-      "id": "hr-342595",
-      "brand": "Canyon",
-      "title": "Canyon Speedmax CF - Storlek Large",
-      "price": 18000,
-      "loc": "Stockholm",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/canyon-speedmax-cf-storlek-large.342595/",
-      "size": "L"
-    },
-    {
       "id": "24425132",
       "brand": "Canyon",
       "title": "Canyon Endurace CF 7 AXS",
@@ -170,6 +150,16 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/s-works-tarmac-2013.342619/",
       "size": "L"
+    },
+    {
+      "id": "25942906",
+      "brand": "Specialized",
+      "title": "Specialized landsvägscykel 58 cm 28\"/700c vinröd unisex",
+      "price": 26000,
+      "loc": "Solna",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25942906",
+      "size": "58 cm"
     },
     {
       "id": "hr-342195",
@@ -292,7 +282,5 @@
       "size": "L"
     }
   ],
-  "errors": [
-    "facebook: HTTP Error 400: Bad Request"
-  ]
+  "errors": []
 }
