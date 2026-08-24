@@ -72,6 +72,16 @@
       "size": "57 cm"
     },
     {
+      "id": "hr-343256",
+      "brand": "Bianchi",
+      "title": "Bianchi oltre xr4",
+      "price": 21000,
+      "loc": "Västra Götaland",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/bianchi-oltre-xr4.343256/",
+      "size": "L"
+    },
+    {
       "id": "25831672",
       "brand": "Bianchi",
       "title": "Bianchi Sprint - landsvägcykel",
@@ -100,6 +110,16 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/25600516",
       "size": "58 cm"
+    },
+    {
+      "id": "25981098",
+      "brand": "Canyon",
+      "title": "Canyon Ultimate AL SLX 8.0",
+      "price": 13000,
+      "loc": "Flyinge",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25981098",
+      "size": "XL"
     },
     {
       "id": "25562127",
@@ -202,16 +222,6 @@
       "size": "L"
     },
     {
-      "id": "hr-340457",
-      "brand": "Trek",
-      "title": "Trek Émonda S 6 - 58/L",
-      "price": 12500,
-      "loc": "Örebro",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/trek-emonda-s-6-58-l.340457/",
-      "size": "L"
-    },
-    {
       "id": "25777006",
       "brand": "Trek",
       "title": "Trek Emonda SL 6 / Karbon / Ultegra / 7.8kg",
@@ -262,6 +272,26 @@
       "size": "L"
     },
     {
+      "id": "25960124",
+      "brand": "Trek",
+      "title": "Trek Domane sl6 Gen 4",
+      "price": 29000,
+      "loc": "Sävedalen",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25960124",
+      "size": "L"
+    },
+    {
+      "id": "hr-343195",
+      "brand": "Trek",
+      "title": "Trek Domane sl6 Gen 4",
+      "price": 29000,
+      "loc": "Västra Götaland",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/trek-domane-sl6-gen-4.343195/",
+      "size": "L"
+    },
+    {
       "id": "25755219",
       "brand": "Trek",
       "title": "Trek domane Gen 5",
@@ -272,13 +302,13 @@
       "size": "L"
     },
     {
-      "id": "hr-333537",
+      "id": "hr-343155",
       "brand": "Trek",
-      "title": "Trek Madone slr 7 factory racing",
+      "title": "Trek Emonda SL6 Pro",
       "price": 30000,
-      "loc": "Jönköping",
+      "loc": "Skåne",
       "src": "Happyride",
-      "url": "https://happyride.se/annonser/trek-madone-slr-7-factory-racing.333537/",
+      "url": "https://happyride.se/annonser/trek-emonda-sl6-pro.343155/",
       "size": "L"
     }
   ],
