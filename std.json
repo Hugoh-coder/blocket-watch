@@ -142,6 +142,16 @@
       "size": "L"
     },
     {
+      "id": "25992482",
+      "brand": "Specialized",
+      "title": "Specialized racer",
+      "price": 13000,
+      "loc": "Älta",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25992482",
+      "size": "58 cm"
+    },
+    {
       "id": "23776712",
       "brand": "Specialized",
       "title": "Specialized Tarmac 2014 – Ramstorlek 58",
@@ -202,16 +212,6 @@
       "size": "58 cm"
     },
     {
-      "id": "25778807",
-      "brand": "Trek",
-      "title": "Trek racer stl 58 - Domane AL 2 gen 4",
-      "price": 12000,
-      "loc": "Mölndal",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25778807",
-      "size": "58 cm"
-    },
-    {
       "id": "hr-341530",
       "brand": "Trek",
       "title": "Trek Domane S5 Disc",
@@ -222,13 +222,13 @@
       "size": "L"
     },
     {
-      "id": "25777006",
+      "id": "25988627",
       "brand": "Trek",
-      "title": "Trek Emonda SL 6 / Karbon / Ultegra / 7.8kg",
-      "price": 14500,
-      "loc": "Stockholm",
+      "title": "Trek Émonda ALR 5 Disc – storlek 58",
+      "price": 15900,
+      "loc": "Färentuna",
       "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25777006",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25988627",
       "size": "58 cm"
     },
     {
