@@ -52,6 +52,16 @@
       "size": "57 cm"
     },
     {
+      "id": "26037546",
+      "brand": "Bianchi",
+      "title": "Bianchi landsvägscykel 28\" storlek L unisex",
+      "price": 16500,
+      "loc": "Enköping",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26037546",
+      "size": "L"
+    },
+    {
       "id": "hr-342713",
       "brand": "Bianchi",
       "title": "Bianchi Specialissima",
@@ -92,6 +102,26 @@
       "size": "57 cm"
     },
     {
+      "id": "25553287",
+      "brand": "Bianchi",
+      "title": "Bianchi Oltre xr3.PRISSÄNKT",
+      "price": 30000,
+      "loc": "Nymölla",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25553287",
+      "size": "L"
+    },
+    {
+      "id": "26025279",
+      "brand": "Canyon",
+      "title": "Canyon Roadlite AL F6",
+      "price": 10000,
+      "loc": "Sollentuna",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26025279",
+      "size": "L"
+    },
+    {
       "id": "hr-342897",
       "brand": "Canyon",
       "title": "Canyon Endurace AllRoad",
@@ -102,14 +132,14 @@
       "size": "L"
     },
     {
-      "id": "25600516",
+      "id": "fb-1399812675577236",
       "brand": "Canyon",
-      "title": "Canyon Ultimate f10",
-      "price": 11000,
-      "loc": "Malmö",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25600516",
-      "size": "58 cm"
+      "title": "Canyon Roadlite AL F6",
+      "price": 10000,
+      "loc": "Tureberg",
+      "src": "Facebook",
+      "url": "https://www.facebook.com/marketplace/item/1399812675577236",
+      "size": "L"
     },
     {
       "id": "25981098",
@@ -160,16 +190,6 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/23776712",
       "size": "58 cm"
-    },
-    {
-      "id": "hr-340977",
-      "brand": "Specialized",
-      "title": "Specialized S-Works Tarmac sl4",
-      "price": 15000,
-      "loc": "Dalarna",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/specialized-s-works-tarmac-sl4.340977/",
-      "size": "L"
     },
     {
       "id": "hr-342619",
@@ -272,23 +292,13 @@
       "size": "L"
     },
     {
-      "id": "25960124",
+      "id": "hr-333537",
       "brand": "Trek",
-      "title": "Trek Domane sl6 Gen 4",
+      "title": "Trek Madone slr 7 factory racing",
       "price": 29000,
-      "loc": "Sävedalen",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25960124",
-      "size": "L"
-    },
-    {
-      "id": "hr-343195",
-      "brand": "Trek",
-      "title": "Trek Domane sl6 Gen 4",
-      "price": 29000,
-      "loc": "Västra Götaland",
+      "loc": "Jönköping",
       "src": "Happyride",
-      "url": "https://happyride.se/annonser/trek-domane-sl6-gen-4.343195/",
+      "url": "https://happyride.se/annonser/trek-madone-slr-7-factory-racing.333537/",
       "size": "L"
     },
     {
