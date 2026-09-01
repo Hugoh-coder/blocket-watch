@@ -12,6 +12,16 @@
       "size": "57 cm"
     },
     {
+      "id": "hr-344171",
+      "brand": "Bianchi",
+      "title": "Bianchi Intenso Shimano 105 - Storlek 57",
+      "price": 12000,
+      "loc": "Skåne",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/bianchi-intenso-shimano-105-storlek-57.344171/",
+      "size": "57 cm"
+    },
+    {
       "id": "25878002",
       "brand": "Bianchi",
       "title": "Bianchi via Nirone 7 105 XL (61 cm) + ENVE hjulset",
@@ -50,6 +60,16 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/26037546",
       "size": "L"
+    },
+    {
+      "id": "26216807",
+      "brand": "Bianchi",
+      "title": "Bianchi Infinito xe Ultegra Team Rynkeby",
+      "price": 18000,
+      "loc": "Linköping",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26216807",
+      "size": "57 cm"
     },
     {
       "id": "hr-342713",
@@ -122,16 +142,6 @@
       "size": "L"
     },
     {
-      "id": "25981098",
-      "brand": "Canyon",
-      "title": "Canyon Ultimate AL SLX 8.0",
-      "price": 13000,
-      "loc": "Flyinge",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25981098",
-      "size": "XL"
-    },
-    {
       "id": "25562127",
       "brand": "Canyon",
       "title": "Canyon landsvägscykel Xl 28\" unisex",
@@ -140,6 +150,26 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/25562127",
       "size": "XL"
+    },
+    {
+      "id": "hr-344112",
+      "brand": "Canyon",
+      "title": "Canyon Endurace 7 RAW",
+      "price": 15000,
+      "loc": "Uppsala",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/canyon-endurace-7-raw.344112/",
+      "size": "L"
+    },
+    {
+      "id": "26203019",
+      "brand": "Specialized",
+      "title": "Specialized Allez E5 landsvägscykel 58 cm 28\"",
+      "price": 10000,
+      "loc": "Tyresö",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26203019",
+      "size": "58 cm"
     },
     {
       "id": "25992482",
@@ -169,26 +199,6 @@
       "loc": "Solna",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/25942906",
-      "size": "58 cm"
-    },
-    {
-      "id": "hr-342195",
-      "brand": "Specialized",
-      "title": "S-Works Venge, Uppgraderad, Stl L",
-      "price": 29000,
-      "loc": "Uppsala",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/s-works-venge-uppgraderad-stl-l.342195/",
-      "size": "L"
-    },
-    {
-      "id": "25916080",
-      "brand": "Trek",
-      "title": "Trek Domane 4.3 2014",
-      "price": 10900,
-      "loc": "Hässelby",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25916080",
       "size": "58 cm"
     },
     {
@@ -240,6 +250,16 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/6002",
       "size": "62 cm"
+    },
+    {
+      "id": "hr-344168",
+      "brand": "Trek",
+      "title": "Trek Émonda SL 6 Pro disc",
+      "price": 25000,
+      "loc": "Skåne",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/trek-emonda-sl-6-pro-disc.344168/",
+      "size": "L"
     },
     {
       "id": "hr-343155",

@@ -82,7 +82,7 @@
 <header><div class="head-inner">
   <a class="back" href="./">← Alla listor</a>
   <h1>Racercyklar till salu 🚲</h1>
-  <p class="sub"><b id="count">26</b> begagnade landsvägscyklar i hela Sverige · Trek · Specialized · Canyon · Bianchi · storlek L / XL / 58 cm · 10 000–30 000 kr</p>
+  <p class="sub"><b id="count">28</b> begagnade landsvägscyklar i hela Sverige · Trek · Specialized · Canyon · Bianchi · storlek L / XL / 58 cm · 10 000–30 000 kr</p>
   
   <div class="controls">
     <div class="filters" id="filters"></div>
@@ -97,15 +97,17 @@
   <div class="empty" id="empty" hidden>Inga cyklar för det här märket i prisklassen just nu.</div>
 </div></main>
 <footer><div class="wrap">
-  <p>Uppdaterad <b>31 August 2026</b>. Uppdateras automatiskt varje morgon. Klicka på en cykel för att öppna annonsen.</p>
+  <p>Uppdaterad <b>1 September 2026</b>. Uppdateras automatiskt varje morgon. Klicka på en cykel för att öppna annonsen.</p>
   <p>Källor: Blocket, Happyride, Sportson Begagnat och Facebook Marketplace. Priser och tillgänglighet kan ändras — annonsen gäller.</p>
 </div></footer>
 <script>
   const bikes = [
     { brand:"Bianchi", title:"Bianchi Oltre XR1", price:12000, size:"57 cm", loc:"Örebro", src:"Blocket", url:"https://www.blocket.se/recommerce/forsale/item/25940964" },
+    { brand:"Bianchi", title:"Bianchi Intenso Shimano 105 - Storlek 57", price:12000, size:"57 cm", loc:"Skåne", src:"Happyride", url:"https://happyride.se/annonser/bianchi-intenso-shimano-105-storlek-57.344171/" },
     { brand:"Bianchi", title:"Bianchi via Nirone 7 105 XL (61 cm) + ENVE hjulset", price:13000, size:"61 cm", loc:"Göteborg", src:"Blocket", url:"https://www.blocket.se/recommerce/forsale/item/25878002" },
     { brand:"Bianchi", title:"BIANCHI RACER VIA NIRONE 7 Disc 105 11x2 vxl REA", price:16484, size:"57 cm", loc:"Tvååker", src:"Blocket", url:"https://www.blocket.se/recommerce/forsale/item/151743" },
     { brand:"Bianchi", title:"Bianchi landsvägscykel 28\" storlek L unisex", price:16500, size:"L", loc:"Enköping", src:"Blocket", url:"https://www.blocket.se/recommerce/forsale/item/26037546" },
+    { brand:"Bianchi", title:"Bianchi Infinito xe Ultegra Team Rynkeby", price:18000, size:"57 cm", loc:"Linköping", src:"Blocket", url:"https://www.blocket.se/recommerce/forsale/item/26216807" },
     { brand:"Bianchi", title:"Bianchi Specialissima", price:18000, size:"L", loc:"Örebro", src:"Happyride", url:"https://happyride.se/annonser/bianchi-specialissima.342713/" },
     { brand:"Bianchi", title:"Bianchi oltre xr4", price:21000, size:"L", loc:"Västra Götaland", src:"Happyride", url:"https://happyride.se/annonser/bianchi-oltre-xr4.343256/" },
     { brand:"Bianchi", title:"Bianchi Sprint - landsvägcykel", price:23000, size:"57 cm", loc:"Falun", src:"Blocket", url:"https://www.blocket.se/recommerce/forsale/item/25831672" },
@@ -113,18 +115,18 @@
     { brand:"Bianchi", title:"Bianchi Oltre xr3.PRISSÄNKT", price:30000, size:"L", loc:"Nymölla", src:"Blocket", url:"https://www.blocket.se/recommerce/forsale/item/25553287" },
     { brand:"Canyon", title:"Canyon Roadlite AL F6", price:10000, size:"L", loc:"Sollentuna", src:"Blocket", url:"https://www.blocket.se/recommerce/forsale/item/26025279" },
     { brand:"Canyon", title:"Canyon Endurace AllRoad", price:10000, size:"L", loc:"Stockholm", src:"Happyride", url:"https://happyride.se/annonser/canyon-endurace-allroad.342897/" },
-    { brand:"Canyon", title:"Canyon Ultimate AL SLX 8.0", price:13000, size:"XL", loc:"Flyinge", src:"Blocket", url:"https://www.blocket.se/recommerce/forsale/item/25981098" },
     { brand:"Canyon", title:"Canyon landsvägscykel Xl 28\" unisex", price:15000, size:"XL", loc:"Adelsö", src:"Blocket", url:"https://www.blocket.se/recommerce/forsale/item/25562127" },
+    { brand:"Canyon", title:"Canyon Endurace 7 RAW", price:15000, size:"L", loc:"Uppsala", src:"Happyride", url:"https://happyride.se/annonser/canyon-endurace-7-raw.344112/" },
+    { brand:"Specialized", title:"Specialized Allez E5 landsvägscykel 58 cm 28\"", price:10000, size:"58 cm", loc:"Tyresö", src:"Blocket", url:"https://www.blocket.se/recommerce/forsale/item/26203019" },
     { brand:"Specialized", title:"Specialized racer", price:13000, size:"58 cm", loc:"Älta", src:"Blocket", url:"https://www.blocket.se/recommerce/forsale/item/25992482" },
     { brand:"Specialized", title:"S-works tarmac 2013", price:16000, size:"L", loc:"Västernorrland", src:"Happyride", url:"https://happyride.se/annonser/s-works-tarmac-2013.342619/" },
     { brand:"Specialized", title:"Specialized landsvägscykel 58 cm 28\"/700c vinröd unisex", price:26000, size:"58 cm", loc:"Solna", src:"Blocket", url:"https://www.blocket.se/recommerce/forsale/item/25942906" },
-    { brand:"Specialized", title:"S-Works Venge, Uppgraderad, Stl L", price:29000, size:"L", loc:"Uppsala", src:"Happyride", url:"https://happyride.se/annonser/s-works-venge-uppgraderad-stl-l.342195/" },
-    { brand:"Trek", title:"Trek Domane 4.3 2014", price:10900, size:"58 cm", loc:"Hässelby", src:"Blocket", url:"https://www.blocket.se/recommerce/forsale/item/25916080" },
     { brand:"Trek", title:"Trek landsvägscykel XL 28\"/700c unisex", price:15000, size:"XL", loc:"Svalöv", src:"Blocket", url:"https://www.blocket.se/recommerce/forsale/item/26131912" },
     { brand:"Trek", title:"Trek Émonda ALR 5 Disc – storlek 58", price:15900, size:"58 cm", loc:"Färentuna", src:"Blocket", url:"https://www.blocket.se/recommerce/forsale/item/25988627" },
     { brand:"Trek", title:"Trek Domane SL 5", price:20000, size:"L", loc:"Skåne", src:"Happyride", url:"https://happyride.se/annonser/trek-domane-sl-5.342765/" },
     { brand:"Trek", title:"Racer Trek Domane AL 5 Gen 4 Svart.", price:21000, size:"L", loc:"Värmland", src:"Happyride", url:"https://happyride.se/annonser/racer-trek-domane-al-5-gen-4-svart.342892/" },
     { brand:"Trek", title:"Trek Domane SL 5 Gen 4", price:25000, size:"62 cm", loc:"Skövde", src:"Blocket", url:"https://www.blocket.se/recommerce/forsale/item/6002" },
+    { brand:"Trek", title:"Trek Émonda SL 6 Pro disc", price:25000, size:"L", loc:"Skåne", src:"Happyride", url:"https://happyride.se/annonser/trek-emonda-sl-6-pro-disc.344168/" },
     { brand:"Trek", title:"Trek Emonda SL6 Pro", price:27000, size:"L", loc:"Skåne", src:"Happyride", url:"https://happyride.se/annonser/trek-emonda-sl6-pro.343155/" },
     { brand:"Trek", title:"Trek Madone", price:28000, size:"L", loc:"Östergötland", src:"Happyride", url:"https://happyride.se/annonser/trek-madone.343797/" },
     { brand:"Trek", title:"Trek domane Gen 5", price:29995, size:"L", loc:"Linköping", src:"Blocket", url:"https://www.blocket.se/recommerce/forsale/item/25755219" },
