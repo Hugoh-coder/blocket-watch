@@ -32,6 +32,16 @@
       "size": "L"
     },
     {
+      "id": "26285425",
+      "brand": "Canyon",
+      "title": "Canyon Endurace AllRoad",
+      "price": 10000,
+      "loc": "Stockholm",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26285425",
+      "size": "L"
+    },
+    {
       "id": "hr-342897",
       "brand": "Canyon",
       "title": "Canyon Endurace AllRoad",
@@ -90,16 +100,6 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/26131912",
       "size": "XL"
-    },
-    {
-      "id": "25988627",
-      "brand": "Trek",
-      "title": "Trek Émonda ALR 5 Disc – storlek 58",
-      "price": 15900,
-      "loc": "Färentuna",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25988627",
-      "size": "58 cm"
     },
     {
       "id": "hr-342765",
