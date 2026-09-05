@@ -53,6 +53,6 @@
     }
   ],
   "errors": [
-    "blocket: 'latin-1' codec can't encode character '\\u2028' in position 4330: ordinal not in range(256)"
+    "blocket: 'latin-1' codec can't encode character '\\u2028' in position 4303: ordinal not in range(256)"
   ]
 }

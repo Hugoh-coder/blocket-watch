@@ -12,16 +12,6 @@
       "size": "57 cm"
     },
     {
-      "id": "hr-342713",
-      "brand": "Bianchi",
-      "title": "Bianchi Specialissima",
-      "price": 18000,
-      "loc": "Örebro",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/bianchi-specialissima.342713/",
-      "size": "L"
-    },
-    {
       "id": "hr-343256",
       "brand": "Bianchi",
       "title": "Bianchi oltre xr4",
@@ -62,6 +52,16 @@
       "size": "L"
     },
     {
+      "id": "26309143",
+      "brand": "Canyon",
+      "title": "Canyon Endurace CF SL 7 eTAP, storlek L, Quarq powermeter",
+      "price": 26500,
+      "loc": "Stockholm",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26309143",
+      "size": "L"
+    },
+    {
       "id": "25992482",
       "brand": "Specialized",
       "title": "Specialized racer",
@@ -72,16 +72,6 @@
       "size": "58 cm"
     },
     {
-      "id": "hr-342619",
-      "brand": "Specialized",
-      "title": "S-works tarmac 2013",
-      "price": 16000,
-      "loc": "Västernorrland",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/s-works-tarmac-2013.342619/",
-      "size": "L"
-    },
-    {
       "id": "25942906",
       "brand": "Specialized",
       "title": "Specialized landsvägscykel 58 cm 28\"/700c vinröd unisex",
@@ -90,6 +80,16 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/25942906",
       "size": "58 cm"
+    },
+    {
+      "id": "26240005",
+      "brand": "Specialized",
+      "title": "Specialized landsvägscykel 28\"/700c stl L grön unisex",
+      "price": 30000,
+      "loc": "Linköping",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26240005",
+      "size": "L"
     },
     {
       "id": "26131912",
@@ -119,6 +119,16 @@
       "loc": "Värmland",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/racer-trek-domane-al-5-gen-4-svart.342892/",
+      "size": "L"
+    },
+    {
+      "id": "hr-344566",
+      "brand": "Trek",
+      "title": "Trek Emondá ALR Palmarés Edition",
+      "price": 24000,
+      "loc": "Skåne",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/trek-emonda-alr-palmares-edition.344566/",
       "size": "L"
     },
     {
@@ -173,6 +183,6 @@
     }
   ],
   "errors": [
-    "blocket: 'latin-1' codec can't encode character '\\u2028' in position 4330: ordinal not in range(256)"
+    "blocket: 'latin-1' codec can't encode character '\\u2028' in position 4303: ordinal not in range(256)"
   ]
 }
