@@ -32,20 +32,10 @@
       "size": "L"
     },
     {
-      "id": "hr-342897",
-      "brand": "Canyon",
-      "title": "Canyon Endurace AllRoad",
-      "price": 10000,
-      "loc": "Stockholm",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/canyon-endurace-allroad.342897/",
-      "size": "L"
-    },
-    {
       "id": "hr-344112",
       "brand": "Canyon",
       "title": "Canyon Endurace 7 RAW",
-      "price": 15000,
+      "price": 14000,
       "loc": "Uppsala",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/canyon-endurace-7-raw.344112/",
@@ -102,6 +92,26 @@
       "size": "XL"
     },
     {
+      "id": "23606178",
+      "brand": "Trek",
+      "title": "Trek Emonda SL5 landsvägscykel",
+      "price": 20000,
+      "loc": "Jönköping",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/23606178",
+      "size": "58 cm"
+    },
+    {
+      "id": "hr-344785",
+      "brand": "Trek",
+      "title": "Trek Domane SL 5 Disc 2022 (58)",
+      "price": 22000,
+      "loc": "Västra Götaland",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/trek-domane-sl-5-disc-2022-58.344785/",
+      "size": "L"
+    },
+    {
       "id": "hr-344566",
       "brand": "Trek",
       "title": "Trek Emondá ALR Palmarés Edition",
@@ -129,16 +139,6 @@
       "loc": "Skåne",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/trek-emonda-sl-6-pro-disc.344168/",
-      "size": "L"
-    },
-    {
-      "id": "hr-343155",
-      "brand": "Trek",
-      "title": "Trek Emonda SL6 Pro",
-      "price": 27000,
-      "loc": "Skåne",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/trek-emonda-sl6-pro.343155/",
       "size": "L"
     },
     {
