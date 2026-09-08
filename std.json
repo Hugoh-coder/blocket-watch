@@ -2,6 +2,26 @@
   "profile": "std",
   "items": [
     {
+      "id": "26248797",
+      "brand": "Bianchi",
+      "title": "Bianchi Sempre landsvägscykel 28\" stl L unisex svart/grön",
+      "price": 10000,
+      "loc": "Varberg",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26248797",
+      "size": "L"
+    },
+    {
+      "id": "25940964",
+      "brand": "Bianchi",
+      "title": "Bianchi Oltre XR1",
+      "price": 12000,
+      "loc": "Örebro",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25940964",
+      "size": "57 cm"
+    },
+    {
       "id": "hr-344171",
       "brand": "Bianchi",
       "title": "Bianchi Intenso Shimano 105 - Storlek 57",
@@ -12,14 +32,94 @@
       "size": "57 cm"
     },
     {
+      "id": "25878002",
+      "brand": "Bianchi",
+      "title": "Bianchi via Nirone 7 105 XL (61 cm) + ENVE hjulset",
+      "price": 13000,
+      "loc": "Göteborg",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25878002",
+      "size": "61 cm"
+    },
+    {
+      "id": "26241132",
+      "brand": "Bianchi",
+      "title": "Bianchi Sprint",
+      "price": 15000,
+      "loc": "Hofors",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26241132",
+      "size": "57 cm"
+    },
+    {
+      "id": "26037546",
+      "brand": "Bianchi",
+      "title": "Bianchi landsvägscykel 28\" storlek L unisex",
+      "price": 15000,
+      "loc": "Enköping",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26037546",
+      "size": "L"
+    },
+    {
+      "id": "25746051",
+      "brand": "Bianchi",
+      "title": "Bianchi Oltre XR1",
+      "price": 16000,
+      "loc": "Kristinehamn",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25746051",
+      "size": "57 cm"
+    },
+    {
+      "id": "151743",
+      "brand": "Bianchi",
+      "title": "BIANCHI RACER VIA NIRONE 7 Disc 105 11x2 vxl REA",
+      "price": 16484,
+      "loc": "Tvååker",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/151743",
+      "size": "57 cm"
+    },
+    {
+      "id": "26216807",
+      "brand": "Bianchi",
+      "title": "Bianchi Infinito xe Ultegra Team Rynkeby",
+      "price": 17500,
+      "loc": "Linköping",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26216807",
+      "size": "57 cm"
+    },
+    {
       "id": "hr-343256",
       "brand": "Bianchi",
       "title": "Bianchi oltre xr4",
-      "price": 21000,
+      "price": 19000,
       "loc": "Västra Götaland",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/bianchi-oltre-xr4.343256/",
       "size": "L"
+    },
+    {
+      "id": "25831672",
+      "brand": "Bianchi",
+      "title": "Bianchi Sprint - landsvägcykel",
+      "price": 21500,
+      "loc": "Falun",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25831672",
+      "size": "57 cm"
+    },
+    {
+      "id": "26134996",
+      "brand": "Bianchi",
+      "title": "Bianchi Oltre XR1 – Ultegra Di2 – Zipp 404 – strl 57",
+      "price": 24500,
+      "loc": "Halmstad",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26134996",
+      "size": "57 cm"
     },
     {
       "id": "26285425",
@@ -32,6 +132,16 @@
       "size": "L"
     },
     {
+      "id": "26025279",
+      "brand": "Canyon",
+      "title": "Canyon Roadlite AL F6",
+      "price": 10000,
+      "loc": "Sollentuna",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26025279",
+      "size": "L"
+    },
+    {
       "id": "hr-344112",
       "brand": "Canyon",
       "title": "Canyon Endurace 7 RAW",
@@ -40,6 +150,26 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/canyon-endurace-7-raw.344112/",
       "size": "L"
+    },
+    {
+      "id": "25562127",
+      "brand": "Canyon",
+      "title": "Canyon landsvägscykel Xl 28\" unisex",
+      "price": 15000,
+      "loc": "Adelsö",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25562127",
+      "size": "XL"
+    },
+    {
+      "id": "26396508",
+      "brand": "Specialized",
+      "title": "Specialized Tarmac landsvägscykel 58 cm 28\"/700c unisex svart/gul",
+      "price": 10000,
+      "loc": "Bankeryd",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26396508",
+      "size": "58 cm"
     },
     {
       "id": "hr-344610",
@@ -102,6 +232,16 @@
       "size": "58 cm"
     },
     {
+      "id": "26407395",
+      "brand": "Trek",
+      "title": "Trek Domane sl 5 kolfiber 2023",
+      "price": 21500,
+      "loc": "Vissefjärda",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26407395",
+      "size": "58 cm"
+    },
+    {
       "id": "hr-344785",
       "brand": "Trek",
       "title": "Trek Domane SL 5 Disc 2022 (58)",
@@ -142,6 +282,16 @@
       "size": "L"
     },
     {
+      "id": "hr-343155",
+      "brand": "Trek",
+      "title": "Trek Emonda SL6 Pro",
+      "price": 27000,
+      "loc": "Skåne",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/trek-emonda-sl6-pro.343155/",
+      "size": "L"
+    },
+    {
       "id": "hr-343797",
       "brand": "Trek",
       "title": "Trek Madone",
@@ -162,7 +312,5 @@
       "size": "L"
     }
   ],
-  "errors": [
-    "blocket: 'latin-1' codec can't encode character '\\u2028' in position 4303: ordinal not in range(256)"
-  ]
+  "errors": []
 }
