@@ -202,6 +202,16 @@
       "size": "L"
     },
     {
+      "id": "fb-1255635140012418",
+      "brand": "Trek",
+      "title": "Trek Émonda",
+      "price": 15900,
+      "loc": "Färentuna",
+      "src": "Facebook",
+      "url": "https://www.facebook.com/marketplace/item/1255635140012418",
+      "size": "58 cm"
+    },
+    {
       "id": "23606178",
       "brand": "Trek",
       "title": "Trek Emonda SL5 landsvägscykel",
@@ -210,6 +220,26 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/23606178",
       "size": "58 cm"
+    },
+    {
+      "id": "hr-342765",
+      "brand": "Trek",
+      "title": "Trek Domane SL 5",
+      "price": 20000,
+      "loc": "Skåne",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/trek-domane-sl-5.342765/",
+      "size": "L"
+    },
+    {
+      "id": "hr-342892",
+      "brand": "Trek",
+      "title": "Racer Trek Domane AL 5 Gen 4 Svart.",
+      "price": 21000,
+      "loc": "Värmland",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/racer-trek-domane-al-5-gen-4-svart.342892/",
+      "size": "L"
     },
     {
       "id": "26407395",
@@ -259,16 +289,6 @@
       "loc": "Skåne",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/trek-emonda-sl-6-pro-disc.344168/",
-      "size": "L"
-    },
-    {
-      "id": "hr-343155",
-      "brand": "Trek",
-      "title": "Trek Emonda SL6 Pro",
-      "price": 27000,
-      "loc": "Skåne",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/trek-emonda-sl6-pro.343155/",
       "size": "L"
     },
     {
