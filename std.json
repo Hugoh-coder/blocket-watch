@@ -12,6 +12,16 @@
       "size": "L"
     },
     {
+      "id": "25878002",
+      "brand": "Bianchi",
+      "title": "Bianchi via Nirone 7 105 XL (61 cm) + ENVE hjulset",
+      "price": 11500,
+      "loc": "Mölndal",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25878002",
+      "size": "61 cm"
+    },
+    {
       "id": "25940964",
       "brand": "Bianchi",
       "title": "Bianchi Oltre XR1",
@@ -30,16 +40,6 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/bianchi-intenso-shimano-105-storlek-57.344171/",
       "size": "57 cm"
-    },
-    {
-      "id": "25878002",
-      "brand": "Bianchi",
-      "title": "Bianchi via Nirone 7 105 XL (61 cm) + ENVE hjulset",
-      "price": 13000,
-      "loc": "Göteborg",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25878002",
-      "size": "61 cm"
     },
     {
       "id": "26241132",
@@ -172,16 +172,6 @@
       "size": "L"
     },
     {
-      "id": "25992482",
-      "brand": "Specialized",
-      "title": "Specialized racer",
-      "price": 13000,
-      "loc": "Älta",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25992482",
-      "size": "58 cm"
-    },
-    {
       "id": "26493316",
       "brand": "Specialized",
       "title": "Specialized S-Works Venge, stl L",
@@ -220,26 +210,6 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/23606178",
       "size": "58 cm"
-    },
-    {
-      "id": "hr-342765",
-      "brand": "Trek",
-      "title": "Trek Domane SL 5",
-      "price": 20000,
-      "loc": "Skåne",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/trek-domane-sl-5.342765/",
-      "size": "L"
-    },
-    {
-      "id": "hr-342892",
-      "brand": "Trek",
-      "title": "Racer Trek Domane AL 5 Gen 4 Svart.",
-      "price": 21000,
-      "loc": "Värmland",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/racer-trek-domane-al-5-gen-4-svart.342892/",
-      "size": "L"
     },
     {
       "id": "26407395",
