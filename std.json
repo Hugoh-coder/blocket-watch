@@ -2,16 +2,6 @@
   "profile": "std",
   "items": [
     {
-      "id": "26248797",
-      "brand": "Bianchi",
-      "title": "Bianchi Sempre landsvägscykel 28\" stl L unisex svart/grön",
-      "price": 10000,
-      "loc": "Varberg",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/26248797",
-      "size": "L"
-    },
-    {
       "id": "25878002",
       "brand": "Bianchi",
       "title": "Bianchi via Nirone 7 105 XL (61 cm) + ENVE hjulset",
@@ -82,6 +72,16 @@
       "size": "57 cm"
     },
     {
+      "id": "hr-345597",
+      "brand": "Bianchi",
+      "title": "Bianchi Sprint ramstorlek 59",
+      "price": 18000,
+      "loc": "Östergötland",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/bianchi-sprint-ramstorlek-59.345597/",
+      "size": "59 cm"
+    },
+    {
       "id": "26134996",
       "brand": "Bianchi",
       "title": "Bianchi Oltre XR1 – Ultegra Di2 – Zipp 404 – strl 57",
@@ -100,6 +100,16 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/25831672",
       "size": "57 cm"
+    },
+    {
+      "id": "hr-345599",
+      "brand": "Bianchi",
+      "title": "Bianchi Oltre XR1",
+      "price": 25000,
+      "loc": "Östergötland",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/bianchi-oltre-xr1.345599/",
+      "size": "L"
     },
     {
       "id": "26025279",
