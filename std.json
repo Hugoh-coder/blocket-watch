@@ -132,6 +132,16 @@
       "size": "XL"
     },
     {
+      "id": "hr-345913",
+      "brand": "Canyon",
+      "title": "Canyon Endurace Di2",
+      "price": 28000,
+      "loc": "Skåne",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/canyon-endurace-di2.345913/",
+      "size": "L"
+    },
+    {
       "id": "26396508",
       "brand": "Specialized",
       "title": "Specialized Tarmac landsvägscykel 58 cm 28\"/700c unisex svart/gul",
@@ -152,16 +162,6 @@
       "size": "L"
     },
     {
-      "id": "26493316",
-      "brand": "Specialized",
-      "title": "Specialized S-Works Venge, stl L",
-      "price": 24000,
-      "loc": "Uppsala",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/26493316",
-      "size": "L"
-    },
-    {
       "id": "26240005",
       "brand": "Specialized",
       "title": "Specialized landsvägscykel 28\"/700c stl L grön unisex",
@@ -169,6 +169,16 @@
       "loc": "Linköping",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/26240005",
+      "size": "L"
+    },
+    {
+      "id": "hr-345871",
+      "brand": "Specialized",
+      "title": "Specialized Tarmac SL7",
+      "price": 30000,
+      "loc": "Östergötland",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/specialized-tarmac-sl7.345871/",
       "size": "L"
     },
     {
