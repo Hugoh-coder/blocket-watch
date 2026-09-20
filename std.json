@@ -135,7 +135,7 @@
       "id": "hr-345913",
       "brand": "Canyon",
       "title": "Canyon Endurace Di2",
-      "price": 28000,
+      "price": 26000,
       "loc": "Skåne",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/canyon-endurace-di2.345913/",
@@ -159,6 +159,16 @@
       "loc": "Jönköping",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/specialized-tarmac-sl4.344610/",
+      "size": "L"
+    },
+    {
+      "id": "hr-345993",
+      "brand": "Specialized",
+      "title": "S-Works Tarmac SL5",
+      "price": 24000,
+      "loc": "Västerbotten",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/s-works-tarmac-sl5.345993/",
       "size": "L"
     },
     {
@@ -189,16 +199,6 @@
       "loc": "Danderyd",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/26659980",
-      "size": "58 cm"
-    },
-    {
-      "id": "23606178",
-      "brand": "Trek",
-      "title": "Trek Emonda SL5 landsvägscykel",
-      "price": 20000,
-      "loc": "Jönköping",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/23606178",
       "size": "58 cm"
     },
     {
