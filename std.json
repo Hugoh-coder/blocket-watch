@@ -2,6 +2,16 @@
   "profile": "std",
   "items": [
     {
+      "id": "26973546",
+      "brand": "Bianchi",
+      "title": "Bianchi landsvägscykel 57 cm 28\"/700c unisex turkos",
+      "price": 10000,
+      "loc": "Täby",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26973546",
+      "size": "57 cm"
+    },
+    {
       "id": "25878002",
       "brand": "Bianchi",
       "title": "Bianchi via Nirone 7 105 XL (61 cm) + ENVE hjulset",
@@ -145,21 +155,11 @@
       "id": "hr-346872",
       "brand": "Canyon",
       "title": "Canyon Ultimate CF SL 8 – 2021, storlek L",
-      "price": 21500,
+      "price": 20500,
       "loc": "Stockholm",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/canyon-ultimate-cf-sl-8-2021-storlek-l.346872/",
       "size": "L"
-    },
-    {
-      "id": "26396508",
-      "brand": "Specialized",
-      "title": "Specialized Tarmac landsvägscykel 58 cm 28\"/700c unisex svart/gul",
-      "price": 10000,
-      "loc": "Bankeryd",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/26396508",
-      "size": "58 cm"
     },
     {
       "id": "hr-344610",
@@ -182,6 +182,16 @@
       "size": "L"
     },
     {
+      "id": "26985555",
+      "brand": "Specialized",
+      "title": "Specialized Aethos",
+      "price": 22000,
+      "loc": "Farsta",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26985555",
+      "size": "58 cm"
+    },
+    {
       "id": "hr-345993",
       "brand": "Specialized",
       "title": "S-Works Tarmac SL5",
@@ -199,16 +209,6 @@
       "loc": "Gävleborg",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/specialized-tarmac-sl7-comp.346620/",
-      "size": "L"
-    },
-    {
-      "id": "hr-346803",
-      "brand": "Specialized",
-      "title": "Specialized Tarmac Sl7- 56 - ultegra, red effektmätare, zipp 303s, aero-styre",
-      "price": 27000,
-      "loc": "Västerbotten",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/specialized-tarmac-sl7-56-ultegra-red-effektmatare-zipp-303s-aero-styre.346803/",
       "size": "L"
     },
     {
