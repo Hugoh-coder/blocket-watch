@@ -72,6 +72,16 @@
       "size": "L"
     },
     {
+      "id": "26997019",
+      "brand": "Bianchi",
+      "title": "Bianchi Impulso allroad",
+      "price": 15500,
+      "loc": "Bromma",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26997019",
+      "size": "XL"
+    },
+    {
       "id": "151743",
       "brand": "Bianchi",
       "title": "BIANCHI RACER VIA NIRONE 7 Disc 105 11x2 vxl REA",
@@ -132,6 +142,16 @@
       "size": "L"
     },
     {
+      "id": "25562127",
+      "brand": "Canyon",
+      "title": "Canyon landsvägscykel Xl 28\" unisex",
+      "price": 11000,
+      "loc": "Adelsö",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/25562127",
+      "size": "XL"
+    },
+    {
       "id": "hr-344112",
       "brand": "Canyon",
       "title": "Canyon Endurace 7 RAW",
@@ -140,16 +160,6 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/canyon-endurace-7-raw.344112/",
       "size": "L"
-    },
-    {
-      "id": "25562127",
-      "brand": "Canyon",
-      "title": "Canyon landsvägscykel Xl 28\" unisex",
-      "price": 15000,
-      "loc": "Adelsö",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25562127",
-      "size": "XL"
     },
     {
       "id": "hr-346872",
@@ -232,16 +242,6 @@
       "size": "L"
     },
     {
-      "id": "26659980",
-      "brand": "Trek",
-      "title": "Trek Madone 6.9PRO",
-      "price": 13000,
-      "loc": "Danderyd",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/26659980",
-      "size": "58 cm"
-    },
-    {
       "id": "24312563",
       "brand": "Trek",
       "title": "Trek domane 5.2 58 kolfiber med Aeolus comp 5 kolfiber hjul",
@@ -300,6 +300,16 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/6002",
       "size": "62 cm"
+    },
+    {
+      "id": "26804083",
+      "brand": "Trek",
+      "title": "Trek Domane SL 5 Gen 4",
+      "price": 26999,
+      "loc": "Borås",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26804083",
+      "size": "XL"
     },
     {
       "id": "hr-331802",
