@@ -112,6 +112,16 @@
       "size": "57 cm"
     },
     {
+      "id": "27021031",
+      "brand": "Bianchi",
+      "title": "Bianchi Impulso Comp Ekar S,M,L",
+      "price": 22995,
+      "loc": "Kinna",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/27021031",
+      "size": "L"
+    },
+    {
       "id": "26766977",
       "brand": "Bianchi",
       "title": "Bianchi Oltre XR1",
@@ -150,16 +160,6 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/25562127",
       "size": "XL"
-    },
-    {
-      "id": "hr-344112",
-      "brand": "Canyon",
-      "title": "Canyon Endurace 7 RAW",
-      "price": 14000,
-      "loc": "Uppsala",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/canyon-endurace-7-raw.344112/",
-      "size": "L"
     },
     {
       "id": "hr-346872",
@@ -209,6 +209,16 @@
       "loc": "Västerbotten",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/s-works-tarmac-sl5.345993/",
+      "size": "L"
+    },
+    {
+      "id": "hr-347076",
+      "brand": "Specialized",
+      "title": "Specialized tarmac sl6, vision tlr sc40, s-works aerofly 2",
+      "price": 25000,
+      "loc": "Västra Götaland",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/specialized-tarmac-sl6-vision-tlr-sc40-s-works-aerofly-2.347076/",
       "size": "L"
     },
     {
@@ -292,6 +302,16 @@
       "size": "L"
     },
     {
+      "id": "27022278",
+      "brand": "Trek",
+      "title": "Trek Emonda SL5 landsvägscykel 58 cm",
+      "price": 25000,
+      "loc": "Sexdrega",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/27022278",
+      "size": "58 cm"
+    },
+    {
       "id": "6002",
       "brand": "Trek",
       "title": "Trek Domane SL 5 Gen 4",
@@ -300,16 +320,6 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/6002",
       "size": "62 cm"
-    },
-    {
-      "id": "26804083",
-      "brand": "Trek",
-      "title": "Trek Domane SL 5 Gen 4",
-      "price": 26999,
-      "loc": "Borås",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/26804083",
-      "size": "XL"
     },
     {
       "id": "hr-331802",
