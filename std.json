@@ -192,6 +192,16 @@
       "size": "L"
     },
     {
+      "id": "27129892",
+      "brand": "Specialized",
+      "title": "Specialized Roubaix SL4 Comp Kolfiber – Skivbromsar – 61 cm (XL)",
+      "price": 11500,
+      "loc": "Uppsala",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/27129892",
+      "size": "61 cm"
+    },
+    {
       "id": "hr-346407",
       "brand": "Specialized",
       "title": "Specialized landsvägscykel – kolfiber, lätt och snabb",
@@ -214,11 +224,11 @@
     {
       "id": "hr-347076",
       "brand": "Specialized",
-      "title": "Paketpris! Specialized tarmac sl6, vision tlr sc40",
+      "title": "Paketpris! Specialized tarmac sl6, kolfiberhjul vision tlr sc40",
       "price": 23000,
       "loc": "Västra Götaland",
       "src": "Happyride",
-      "url": "https://happyride.se/annonser/paketpris-specialized-tarmac-sl6-vision-tlr-sc40.347076/",
+      "url": "https://happyride.se/annonser/paketpris-specialized-tarmac-sl6-kolfiberhjul-vision-tlr-sc40.347076/",
       "size": "L"
     },
     {
@@ -272,16 +282,6 @@
       "size": "L"
     },
     {
-      "id": "24312563",
-      "brand": "Trek",
-      "title": "Trek domane 5.2 58 kolfiber med Aeolus comp 5 kolfiber hjul",
-      "price": 14900,
-      "loc": "Uppsala",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/24312563",
-      "size": "58 cm"
-    },
-    {
       "id": "fb-1803876000992200",
       "brand": "Trek",
       "title": "Trek domane 5.2 58 kolfiber med Aeolus comp 5 kolfiber hjul",
@@ -290,16 +290,6 @@
       "src": "Facebook",
       "url": "https://www.facebook.com/marketplace/item/1803876000992200",
       "size": "58 cm"
-    },
-    {
-      "id": "hr-344566",
-      "brand": "Trek",
-      "title": "Trek Emondá ALR Palmarés Edition",
-      "price": 22000,
-      "loc": "Skåne",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/trek-emonda-alr-palmares-edition.344566/",
-      "size": "L"
     },
     {
       "id": "hr-344168",

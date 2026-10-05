@@ -32,16 +32,6 @@
       "size": "XL"
     },
     {
-      "id": "27121614",
-      "brand": "Bianchi",
-      "title": "Bianchi sprint Disc (Nyskick)",
-      "price": 21500,
-      "loc": "Saxtorp",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/27121614",
-      "size": "61 cm"
-    },
-    {
       "id": "25562127",
       "brand": "Canyon",
       "title": "Canyon landsvägscykel Xl 28\" unisex",
@@ -50,6 +40,26 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/25562127",
       "size": "XL"
+    },
+    {
+      "id": "27129892",
+      "brand": "Specialized",
+      "title": "Specialized Roubaix SL4 Comp Kolfiber – Skivbromsar – 61 cm (XL)",
+      "price": 11500,
+      "loc": "Uppsala",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/27129892",
+      "size": "61 cm"
+    },
+    {
+      "id": "hr-347413",
+      "brand": "Specialized",
+      "title": "Specialized Roubaix SL4 Comp Kolfiber (Ultegra / Skivbromsar) – Strles 61 cm + Tillbehör",
+      "price": 11500,
+      "loc": "Uppsala",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/specialized-roubaix-sl4-comp-kolfiber-ultegra-skivbromsar-strles-61-cm-tillbehor.347413/",
+      "size": "61 cm"
     },
     {
       "id": "6002",
