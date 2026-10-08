@@ -122,16 +122,6 @@
       "size": "57 cm"
     },
     {
-      "id": "27021031",
-      "brand": "Bianchi",
-      "title": "Bianchi Impulso Comp Ekar S,M,L",
-      "price": 22995,
-      "loc": "Kinna",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/27021031",
-      "size": "L"
-    },
-    {
       "id": "26766977",
       "brand": "Bianchi",
       "title": "Bianchi Oltre XR1",
@@ -169,6 +159,16 @@
       "loc": "Adelsö",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/25562127",
+      "size": "XL"
+    },
+    {
+      "id": "27236556",
+      "brand": "Canyon",
+      "title": "Canyon Grail CF SL 7 (2024) – Grusracer, storlek xxl",
+      "price": 17500,
+      "loc": "Enskede",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/27236556",
       "size": "XL"
     },
     {
@@ -210,16 +210,6 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/26985555",
       "size": "58 cm"
-    },
-    {
-      "id": "hr-347076",
-      "brand": "Specialized",
-      "title": "Paketpris! Specialized tarmac sl6, kolfiberhjul vision tlr sc40",
-      "price": 23000,
-      "loc": "Västra Götaland",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/paketpris-specialized-tarmac-sl6-kolfiberhjul-vision-tlr-sc40.347076/",
-      "size": "L"
     },
     {
       "id": "hr-345993",
@@ -270,6 +260,26 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/trek-emonda.346809/",
       "size": "L"
+    },
+    {
+      "id": "fb-1803876000992200",
+      "brand": "Trek",
+      "title": "Trek domane 5.2 58 kolfiber med Aeolus comp 5 kolfiber hjul",
+      "price": 14900,
+      "loc": "Uppsala",
+      "src": "Facebook",
+      "url": "https://www.facebook.com/marketplace/item/1803876000992200",
+      "size": "58 cm"
+    },
+    {
+      "id": "fb-1255635140012418",
+      "brand": "Trek",
+      "title": "Trek Émonda",
+      "price": 15900,
+      "loc": "Färentuna",
+      "src": "Facebook",
+      "url": "https://www.facebook.com/marketplace/item/1255635140012418",
+      "size": "58 cm"
     },
     {
       "id": "hr-344168",
