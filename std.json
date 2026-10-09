@@ -2,16 +2,6 @@
   "profile": "std",
   "items": [
     {
-      "id": "26973546",
-      "brand": "Bianchi",
-      "title": "Bianchi landsvägscykel 57 cm 28\"/700c unisex turkos",
-      "price": 10000,
-      "loc": "Täby",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/26973546",
-      "size": "57 cm"
-    },
-    {
       "id": "26745935",
       "brand": "Bianchi",
       "title": "Bianchi Via Nirone 7 Shimano 105 – 57 cm – nyskick",
@@ -30,16 +20,6 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/25878002",
       "size": "61 cm"
-    },
-    {
-      "id": "hr-344171",
-      "brand": "Bianchi",
-      "title": "Bianchi Intenso Shimano 105 - Storlek 57",
-      "price": 12000,
-      "loc": "Skåne",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/bianchi-intenso-shimano-105-storlek-57.344171/",
-      "size": "57 cm"
     },
     {
       "id": "25746051",
@@ -192,16 +172,6 @@
       "size": "L"
     },
     {
-      "id": "27129892",
-      "brand": "Specialized",
-      "title": "Specialized Roubaix SL4 Comp Kolfiber – Skivbromsar – 61 cm (XL)",
-      "price": 11500,
-      "loc": "Uppsala",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/27129892",
-      "size": "61 cm"
-    },
-    {
       "id": "26985555",
       "brand": "Specialized",
       "title": "Specialized Aethos",
@@ -280,16 +250,6 @@
       "src": "Facebook",
       "url": "https://www.facebook.com/marketplace/item/1255635140012418",
       "size": "58 cm"
-    },
-    {
-      "id": "hr-344168",
-      "brand": "Trek",
-      "title": "Trek Émonda SL 6 Pro disc",
-      "price": 24000,
-      "loc": "Skåne",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/trek-emonda-sl-6-pro-disc.344168/",
-      "size": "L"
     },
     {
       "id": "6002",
