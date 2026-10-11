@@ -12,16 +12,6 @@
       "size": "61 cm"
     },
     {
-      "id": "hr-342485",
-      "brand": "Bianchi",
-      "title": "Bianchi Via Nirone 7 105, 2024 - storlek 59",
-      "price": 13990,
-      "loc": "Stockholm",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/bianchi-via-nirone-7-105-2024-storlek-59.342485/",
-      "size": "59 cm"
-    },
-    {
       "id": "26997019",
       "brand": "Bianchi",
       "title": "Bianchi Impulso allroad",
@@ -29,16 +19,6 @@
       "loc": "Bromma",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/26997019",
-      "size": "XL"
-    },
-    {
-      "id": "hr-347527",
-      "brand": "Bianchi",
-      "title": "Bianchi Oltre XR1",
-      "price": 17500,
-      "loc": "Värmland",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/bianchi-oltre-xr1.347527/",
       "size": "XL"
     },
     {
@@ -52,16 +32,6 @@
       "size": "XL"
     },
     {
-      "id": "27236556",
-      "brand": "Canyon",
-      "title": "Canyon Grail CF SL 7 (2024) – Grusracer, storlek xxl",
-      "price": 17500,
-      "loc": "Enskede",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/27236556",
-      "size": "XL"
-    },
-    {
       "id": "6002",
       "brand": "Trek",
       "title": "Trek Domane SL 5 Gen 4",
@@ -72,5 +42,7 @@
       "size": "62 cm"
     }
   ],
-  "errors": []
+  "errors": [
+    "happyride: HTTP Error 403: Forbidden"
+  ]
 }
