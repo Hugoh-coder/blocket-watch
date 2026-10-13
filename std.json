@@ -102,6 +102,16 @@
       "size": "57 cm"
     },
     {
+      "id": "27323391",
+      "brand": "Bianchi",
+      "title": "Bianchi landsvägscykel 57cm 28\"/700c unisex",
+      "price": 25000,
+      "loc": "Tråvad",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/27323391",
+      "size": "57 cm"
+    },
+    {
       "id": "26766977",
       "brand": "Bianchi",
       "title": "Bianchi Oltre XR1",
@@ -110,6 +120,16 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/26766977",
       "size": "57 cm"
+    },
+    {
+      "id": "hr-345599",
+      "brand": "Bianchi",
+      "title": "Bianchi Oltre XR1",
+      "price": 25000,
+      "loc": "Östergötland",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/bianchi-oltre-xr1.345599/",
+      "size": "L"
     },
     {
       "id": "26025279",
@@ -132,6 +152,26 @@
       "size": "XL"
     },
     {
+      "id": "hr-346407",
+      "brand": "Specialized",
+      "title": "Specialized landsvägscykel – kolfiber, lätt och snabb",
+      "price": 10000,
+      "loc": "Skåne",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/specialized-landsvagscykel-kolfiber-latt-och-snabb.346407/",
+      "size": "L"
+    },
+    {
+      "id": "hr-344610",
+      "brand": "Specialized",
+      "title": "Specialized Tarmac SL4",
+      "price": 10000,
+      "loc": "Jönköping",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/specialized-tarmac-sl4.344610/",
+      "size": "L"
+    },
+    {
       "id": "26985555",
       "brand": "Specialized",
       "title": "Specialized Aethos",
@@ -140,6 +180,36 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/26985555",
       "size": "58 cm"
+    },
+    {
+      "id": "hr-345993",
+      "brand": "Specialized",
+      "title": "S-Works Tarmac SL5",
+      "price": 24000,
+      "loc": "Västerbotten",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/s-works-tarmac-sl5.345993/",
+      "size": "L"
+    },
+    {
+      "id": "hr-346620",
+      "brand": "Specialized",
+      "title": "Specialized Tarmac SL7 Comp",
+      "price": 27000,
+      "loc": "Gävleborg",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/specialized-tarmac-sl7-comp.346620/",
+      "size": "L"
+    },
+    {
+      "id": "hr-345871",
+      "brand": "Specialized",
+      "title": "Specialized Tarmac SL7",
+      "price": 28000,
+      "loc": "Östergötland",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/specialized-tarmac-sl7.345871/",
+      "size": "L"
     },
     {
       "id": "27113067",
@@ -182,6 +252,16 @@
       "size": "62 cm"
     },
     {
+      "id": "27331341",
+      "brand": "Trek",
+      "title": "Trek Madone SL5 gen 8. M/L, - 2025",
+      "price": 25000,
+      "loc": "Mariestad",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/27331341",
+      "size": "L"
+    },
+    {
       "id": "27022278",
       "brand": "Trek",
       "title": "Trek Emonda SL5 landsvägscykel 58 cm",
@@ -190,6 +270,26 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/27022278",
       "size": "58 cm"
+    },
+    {
+      "id": "hr-331802",
+      "brand": "Trek",
+      "title": "Trek Domane Koppenberg – Race Shop Limited build",
+      "price": 27500,
+      "loc": "Dalarna",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/trek-domane-koppenberg-race-shop-limited-build.331802/",
+      "size": "L"
+    },
+    {
+      "id": "22770444",
+      "brand": "Trek",
+      "title": "Trek Madone sl 5",
+      "price": 29000,
+      "loc": "Skövde",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/22770444",
+      "size": "L"
     },
     {
       "id": "25755219",
@@ -202,7 +302,5 @@
       "size": "L"
     }
   ],
-  "errors": [
-    "happyride: HTTP Error 403: Forbidden"
-  ]
+  "errors": []
 }
