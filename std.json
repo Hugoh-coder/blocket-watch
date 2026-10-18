@@ -5,21 +5,11 @@
       "id": "26745935",
       "brand": "Bianchi",
       "title": "Bianchi Via Nirone 7 Shimano 105 – 57 cm – nyskick",
-      "price": 10900,
+      "price": 10000,
       "loc": "Varberg",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/26745935",
       "size": "57 cm"
-    },
-    {
-      "id": "25878002",
-      "brand": "Bianchi",
-      "title": "Bianchi via Nirone 7 105 XL (61 cm) + ENVE hjulset",
-      "price": 11500,
-      "loc": "Mölndal",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/25878002",
-      "size": "61 cm"
     },
     {
       "id": "25746051",
@@ -49,6 +39,16 @@
       "loc": "Enköping",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/26037546",
+      "size": "L"
+    },
+    {
+      "id": "hr-348436",
+      "brand": "Bianchi",
+      "title": "Bianchi Oltre XR2 Dura Ace",
+      "price": 15000,
+      "loc": "Västra Götaland",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/bianchi-oltre-xr2-dura-ace.348436/",
       "size": "L"
     },
     {
@@ -142,16 +142,6 @@
       "size": "XL"
     },
     {
-      "id": "hr-344610",
-      "brand": "Specialized",
-      "title": "Specialized Tarmac SL4",
-      "price": 10000,
-      "loc": "Jönköping",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/specialized-tarmac-sl4.344610/",
-      "size": "L"
-    },
-    {
       "id": "26985555",
       "brand": "Specialized",
       "title": "Specialized Aethos",
@@ -220,6 +210,26 @@
       "src": "Facebook",
       "url": "https://www.facebook.com/marketplace/item/1255635140012418",
       "size": "58 cm"
+    },
+    {
+      "id": "27487704",
+      "brand": "Trek",
+      "title": "Trek Domane SL5 Gen4 (Strlk 56, M/L)",
+      "price": 19500,
+      "loc": "Saltsjö-Boo",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/27487704",
+      "size": "L"
+    },
+    {
+      "id": "hr-348454",
+      "brand": "Trek",
+      "title": "Trek Domane SL5 Gen 4 (Strlk 56, M/L)",
+      "price": 19500,
+      "loc": "Stockholm",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/trek-domane-sl5-gen-4-strlk-56-m-l.348454/",
+      "size": "L"
     },
     {
       "id": "6002",
