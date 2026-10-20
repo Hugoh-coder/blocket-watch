@@ -142,6 +142,16 @@
       "size": "XL"
     },
     {
+      "id": "hr-344610",
+      "brand": "Specialized",
+      "title": "Specialized Tarmac SL4",
+      "price": 10000,
+      "loc": "Jönköping",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/specialized-tarmac-sl4.344610/",
+      "size": "L"
+    },
+    {
       "id": "26985555",
       "brand": "Specialized",
       "title": "Specialized Aethos",
@@ -180,6 +190,16 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/specialized-tarmac-sl7.345871/",
       "size": "L"
+    },
+    {
+      "id": "27553177",
+      "brand": "Trek",
+      "title": "Trek Domane 4 Series (58 cm) – Kolfiber / Endurance",
+      "price": 14900,
+      "loc": "Malmö",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/27553177",
+      "size": "58 cm"
     },
     {
       "id": "fb-1803876000992200",
@@ -250,6 +270,16 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/27022278",
       "size": "58 cm"
+    },
+    {
+      "id": "26804083",
+      "brand": "Trek",
+      "title": "Trek Domane SL 5 Gen 4",
+      "price": 26999,
+      "loc": "Borås",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26804083",
+      "size": "XL"
     },
     {
       "id": "hr-331802",
