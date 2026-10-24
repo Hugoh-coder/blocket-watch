@@ -142,23 +142,23 @@
       "size": "XL"
     },
     {
-      "id": "27630471",
+      "id": "27660541",
       "brand": "Canyon",
-      "title": "Canyon Ultimate CF 7",
-      "price": 26000,
-      "loc": "Karlstad",
+      "title": "Canyon landsvägscykel L 28\"/700c svart unisex",
+      "price": 15000,
+      "loc": "Halmstad",
       "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/27630471",
+      "url": "https://www.blocket.se/recommerce/forsale/item/27660541",
       "size": "L"
     },
     {
-      "id": "hr-344610",
+      "id": "27641157",
       "brand": "Specialized",
-      "title": "Specialized Tarmac SL4",
-      "price": 10000,
-      "loc": "Jönköping",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/specialized-tarmac-sl4.344610/",
+      "title": "Specialized landsvägscykel L 28\"/700c röd unisex",
+      "price": 15000,
+      "loc": "Motala",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/27641157",
       "size": "L"
     },
     {
@@ -272,6 +272,26 @@
       "size": "58 cm"
     },
     {
+      "id": "27649704",
+      "brand": "Trek",
+      "title": "Trek Émonda SLR L (58 cm) – Dura-Ace wattmätare & Aeolus XXX hjul",
+      "price": 19000,
+      "loc": "Ramdala",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/27649704",
+      "size": "58 cm"
+    },
+    {
+      "id": "hr-348911",
+      "brand": "Trek",
+      "title": "Trek Émonda SLR L (58 cm) – Dura-Ace wattmätare & Aeolus XXX hjul",
+      "price": 19000,
+      "loc": "Blekinge",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/trek-emonda-slr-l-58-cm-dura-ace-wattmatare-amp-aeolus-xxx-hjul.348911/",
+      "size": "58 cm"
+    },
+    {
       "id": "27487704",
       "brand": "Trek",
       "title": "Trek Domane SL5 Gen4 (Strlk 56, M/L)",
@@ -290,6 +310,16 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/trek-domane-sl5-gen-4-strlk-56-m-l.348454/",
       "size": "L"
+    },
+    {
+      "id": "27648573",
+      "brand": "Trek",
+      "title": "Trek Émonda ALR Palmarés Edition",
+      "price": 22000,
+      "loc": "Helsingborg",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/27648573",
+      "size": "58 cm"
     },
     {
       "id": "6002",
@@ -312,14 +342,14 @@
       "size": "L"
     },
     {
-      "id": "27022278",
+      "id": "26804083",
       "brand": "Trek",
-      "title": "Trek Emonda SL5 landsvägscykel 58 cm",
-      "price": 25000,
-      "loc": "Sexdrega",
+      "title": "Trek Domane SL 5 Gen 4",
+      "price": 26999,
+      "loc": "Borås",
       "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/27022278",
-      "size": "58 cm"
+      "url": "https://www.blocket.se/recommerce/forsale/item/26804083",
+      "size": "XL"
     },
     {
       "id": "hr-331802",
@@ -349,6 +379,26 @@
       "loc": "Linköping",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/25755219",
+      "size": "L"
+    },
+    {
+      "id": "27638386",
+      "brand": "Trek",
+      "title": "Trek Emonda Sl 7 2022/23 strl L",
+      "price": 30000,
+      "loc": "Råå",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/27638386",
+      "size": "L"
+    },
+    {
+      "id": "hr-348891",
+      "brand": "Trek",
+      "title": "Trek Emonda SL 7",
+      "price": 30000,
+      "loc": "Skåne",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/trek-emonda-sl-7.348891/",
       "size": "L"
     }
   ],
