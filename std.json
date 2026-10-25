@@ -142,6 +142,16 @@
       "size": "XL"
     },
     {
+      "id": "27687728",
+      "brand": "Canyon",
+      "title": "Canyon Endurace CF F10 (2015) - Stl L",
+      "price": 12000,
+      "loc": "Stockholm",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/27687728",
+      "size": "L"
+    },
+    {
       "id": "27660541",
       "brand": "Canyon",
       "title": "Canyon landsvägscykel L 28\"/700c svart unisex",
@@ -162,16 +172,6 @@
       "size": "L"
     },
     {
-      "id": "27582998",
-      "brand": "Specialized",
-      "title": "Specialized Tarmac Comp - 58 cm - Ultegra",
-      "price": 16000,
-      "loc": "Linköping",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/27582998",
-      "size": "58 cm"
-    },
-    {
       "id": "27578992",
       "brand": "Specialized",
       "title": "Specialized tarmac L herr samt pedaler med wattmätning",
@@ -185,11 +185,21 @@
       "id": "27576030",
       "brand": "Specialized",
       "title": "Specialized Allen Sprint Peter Sagan",
-      "price": 22000,
+      "price": 21000,
       "loc": "Hägersten",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/27576030",
       "size": "58 cm"
+    },
+    {
+      "id": "hr-348705",
+      "brand": "Specialized",
+      "title": "Specialized Allez Sprint 2019 – Peter Sagan Edition",
+      "price": 21000,
+      "loc": "Stockholm",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/specialized-allez-sprint-2019-peter-sagan-edition.348705/",
+      "size": "L"
     },
     {
       "id": "26985555",
@@ -200,16 +210,6 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/26985555",
       "size": "58 cm"
-    },
-    {
-      "id": "hr-348705",
-      "brand": "Specialized",
-      "title": "Specialized Allez Sprint 2019 – Peter Sagan Edition",
-      "price": 22000,
-      "loc": "Stockholm",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/specialized-allez-sprint-2019-peter-sagan-edition.348705/",
-      "size": "L"
     },
     {
       "id": "hr-345993",
@@ -340,16 +340,6 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/27331341",
       "size": "L"
-    },
-    {
-      "id": "26804083",
-      "brand": "Trek",
-      "title": "Trek Domane SL 5 Gen 4",
-      "price": 26999,
-      "loc": "Borås",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/26804083",
-      "size": "XL"
     },
     {
       "id": "hr-331802",
