@@ -92,6 +92,16 @@
       "size": "57 cm"
     },
     {
+      "id": "26766977",
+      "brand": "Bianchi",
+      "title": "Bianchi Oltre XR1",
+      "price": 23000,
+      "loc": "Linköping",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26766977",
+      "size": "57 cm"
+    },
+    {
       "id": "27323391",
       "brand": "Bianchi",
       "title": "Bianchi landsvägscykel 57cm 28\"/700c unisex",
@@ -100,26 +110,6 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/27323391",
       "size": "57 cm"
-    },
-    {
-      "id": "26766977",
-      "brand": "Bianchi",
-      "title": "Bianchi Oltre XR1",
-      "price": 25000,
-      "loc": "Linköping",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/26766977",
-      "size": "57 cm"
-    },
-    {
-      "id": "hr-345599",
-      "brand": "Bianchi",
-      "title": "Bianchi Oltre XR1",
-      "price": 25000,
-      "loc": "Östergötland",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/bianchi-oltre-xr1.345599/",
-      "size": "L"
     },
     {
       "id": "26025279",
@@ -164,8 +154,8 @@
     {
       "id": "27641157",
       "brand": "Specialized",
-      "title": "Specialized landsvägscykel L 28\"/700c röd unisex",
-      "price": 15000,
+      "title": "Specialized landsvägscykel L 28\"/700c röd unisex kolfiber",
+      "price": 10000,
       "loc": "Motala",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/27641157",
@@ -232,20 +222,30 @@
       "size": "L"
     },
     {
-      "id": "hr-345871",
-      "brand": "Specialized",
-      "title": "Specialized Tarmac SL7",
-      "price": 28000,
-      "loc": "Östergötland",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/specialized-tarmac-sl7.345871/",
-      "size": "L"
+      "id": "27699792",
+      "brand": "Trek",
+      "title": "Trek landsvägscykel 58 cm 28\"/700c lila unisex",
+      "price": 11500,
+      "loc": "Göteborg",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/27699792",
+      "size": "58 cm"
+    },
+    {
+      "id": "27712804",
+      "brand": "Trek",
+      "title": "Trek Émonda ALR 5 landsvägscykel storlek 58",
+      "price": 12500,
+      "loc": "Horda",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/27712804",
+      "size": "58 cm"
     },
     {
       "id": "27553177",
       "brand": "Trek",
       "title": "Trek Domane 4 Series (58 cm) – Kolfiber / Endurance",
-      "price": 14900,
+      "price": 13000,
       "loc": "Malmö",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/27553177",
@@ -260,6 +260,16 @@
       "src": "Facebook",
       "url": "https://www.facebook.com/marketplace/item/1803876000992200",
       "size": "58 cm"
+    },
+    {
+      "id": "hr-349164",
+      "brand": "Trek",
+      "title": "Trek Domane AL5 Gen4",
+      "price": 15000,
+      "loc": "Västra Götaland",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/trek-domane-al5-gen4.349164/",
+      "size": "L"
     },
     {
       "id": "fb-1255635140012418",
@@ -339,16 +349,6 @@
       "loc": "Mariestad",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/27331341",
-      "size": "L"
-    },
-    {
-      "id": "hr-331802",
-      "brand": "Trek",
-      "title": "Trek Domane Koppenberg – Race Shop Limited build",
-      "price": 27500,
-      "loc": "Dalarna",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/trek-domane-koppenberg-race-shop-limited-build.331802/",
       "size": "L"
     },
     {
