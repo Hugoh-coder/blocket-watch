@@ -152,6 +152,16 @@
       "size": "L"
     },
     {
+      "id": "24425132",
+      "brand": "Canyon",
+      "title": "Canyon Endurace CF 7 AXS",
+      "price": 25000,
+      "loc": "Stockholm",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/24425132",
+      "size": "L"
+    },
+    {
       "id": "27641157",
       "brand": "Specialized",
       "title": "Specialized landsvägscykel L 28\"/700c röd unisex kolfiber",
@@ -222,6 +232,16 @@
       "size": "L"
     },
     {
+      "id": "27553177",
+      "brand": "Trek",
+      "title": "Trek Domane 4 Series (58 cm) – Kolfiber / Endurance",
+      "price": 11000,
+      "loc": "Malmö",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/27553177",
+      "size": "58 cm"
+    },
+    {
       "id": "27712804",
       "brand": "Trek",
       "title": "Trek Émonda ALR 5 landsvägscykel storlek 58",
@@ -229,16 +249,6 @@
       "loc": "Horda",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/27712804",
-      "size": "58 cm"
-    },
-    {
-      "id": "27553177",
-      "brand": "Trek",
-      "title": "Trek Domane 4 Series (58 cm) – Kolfiber / Endurance",
-      "price": 13000,
-      "loc": "Malmö",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/27553177",
       "size": "58 cm"
     },
     {
@@ -340,16 +350,6 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/27331341",
       "size": "L"
-    },
-    {
-      "id": "26804083",
-      "brand": "Trek",
-      "title": "Trek Domane SL 5 Gen 4",
-      "price": 26999,
-      "loc": "Borås",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/26804083",
-      "size": "XL"
     },
     {
       "id": "22770444",
