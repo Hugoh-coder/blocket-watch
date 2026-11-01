@@ -122,6 +122,16 @@
       "size": "L"
     },
     {
+      "id": "27687728",
+      "brand": "Canyon",
+      "title": "Canyon Endurace CF F10 (2015) - Stl L",
+      "price": 11000,
+      "loc": "Stockholm",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/27687728",
+      "size": "L"
+    },
+    {
       "id": "25562127",
       "brand": "Canyon",
       "title": "Canyon landsvägscykel Xl 28\" unisex",
@@ -130,16 +140,6 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/25562127",
       "size": "XL"
-    },
-    {
-      "id": "27687728",
-      "brand": "Canyon",
-      "title": "Canyon Endurace CF F10 (2015) - Stl L",
-      "price": 12000,
-      "loc": "Stockholm",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/27687728",
-      "size": "L"
     },
     {
       "id": "27660541",
@@ -209,16 +209,6 @@
       "loc": "Västerbotten",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/s-works-tarmac-sl5.345993/",
-      "size": "L"
-    },
-    {
-      "id": "hr-346620",
-      "brand": "Specialized",
-      "title": "Specialized Tarmac SL7 Comp",
-      "price": 27000,
-      "loc": "Gävleborg",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/specialized-tarmac-sl7-comp.346620/",
       "size": "L"
     },
     {
@@ -350,6 +340,16 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/27331341",
       "size": "L"
+    },
+    {
+      "id": "26804083",
+      "brand": "Trek",
+      "title": "Trek Domane SL 5 Gen 4",
+      "price": 26999,
+      "loc": "Borås",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26804083",
+      "size": "XL"
     },
     {
       "id": "22770444",
