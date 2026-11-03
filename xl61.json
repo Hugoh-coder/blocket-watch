@@ -35,7 +35,7 @@
       "id": "hr-349436",
       "brand": "Canyon",
       "title": "Canyon Endurace AL 6",
-      "price": 10500,
+      "price": 10000,
       "loc": "Jönköping",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/canyon-endurace-al-6.349436/",
@@ -62,6 +62,16 @@
       "size": "61 cm"
     },
     {
+      "id": "27920765",
+      "brand": "Specialized",
+      "title": "REA! Specialized Allez",
+      "price": 16299,
+      "loc": "Stockholm",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/27920765",
+      "size": "54 cm"
+    },
+    {
       "id": "27035596",
       "brand": "Specialized",
       "title": "REA! Specialized Allez Sport, 56, Racer",
@@ -70,6 +80,16 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/27035596",
       "size": "54 cm"
+    },
+    {
+      "id": "27917285",
+      "brand": "Trek",
+      "title": "Trek landsvägscykel 60 cm 28”/700c unisex",
+      "price": 12000,
+      "loc": "Varberg",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/27917285",
+      "size": "60 cm"
     },
     {
       "id": "hr-349266",
@@ -82,16 +102,6 @@
       "size": "XL"
     },
     {
-      "id": "fb-3610574392451555",
-      "brand": "Trek",
-      "title": "Trek Domane Al2 gen3",
-      "price": 16500,
-      "loc": "Tumba",
-      "src": "Facebook",
-      "url": "https://www.facebook.com/marketplace/item/3610574392451555",
-      "size": "61 cm"
-    },
-    {
       "id": "27488324",
       "brand": "Trek",
       "title": "Trek Domane+ AL  5",
@@ -100,6 +110,16 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/27488324",
       "size": "61 cm"
+    },
+    {
+      "id": "26804083",
+      "brand": "Trek",
+      "title": "Trek Domane SL 5 Gen 4 -Novemberkampanj-",
+      "price": 24999,
+      "loc": "Borås",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/26804083",
+      "size": "54 cm"
     },
     {
       "id": "6002",
