@@ -12,16 +12,6 @@
       "size": "59 cm"
     },
     {
-      "id": "26997019",
-      "brand": "Bianchi",
-      "title": "Bianchi Impulso allroad",
-      "price": 15500,
-      "loc": "Bromma",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/26997019",
-      "size": "XL"
-    },
-    {
       "id": "hr-347527",
       "brand": "Bianchi",
       "title": "Bianchi Oltre XR1",
@@ -52,36 +42,6 @@
       "size": "XL"
     },
     {
-      "id": "27778364",
-      "brand": "Specialized",
-      "title": "Specialized Roubaix SL4 Ultegra",
-      "price": 10000,
-      "loc": "Trollhättan",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/27778364",
-      "size": "61 cm"
-    },
-    {
-      "id": "27920765",
-      "brand": "Specialized",
-      "title": "REA! Specialized Allez",
-      "price": 16299,
-      "loc": "Stockholm",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/27920765",
-      "size": "54 cm"
-    },
-    {
-      "id": "27035596",
-      "brand": "Specialized",
-      "title": "REA! Specialized Allez Sport, 56, Racer",
-      "price": 18695,
-      "loc": "Stockholm",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/27035596",
-      "size": "54 cm"
-    },
-    {
       "id": "27917285",
       "brand": "Trek",
       "title": "Trek landsvägscykel 60 cm 28”/700c unisex",
@@ -100,36 +60,6 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/trek-domane-al2-gen3.349266/",
       "size": "XL"
-    },
-    {
-      "id": "27488324",
-      "brand": "Trek",
-      "title": "Trek Domane+ AL  5",
-      "price": 21500,
-      "loc": "Stockholm",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/27488324",
-      "size": "61 cm"
-    },
-    {
-      "id": "26804083",
-      "brand": "Trek",
-      "title": "Trek Domane SL 5 Gen 4 -Novemberkampanj-",
-      "price": 24999,
-      "loc": "Borås",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/26804083",
-      "size": "54 cm"
-    },
-    {
-      "id": "6002",
-      "brand": "Trek",
-      "title": "Trek Domane SL 5 Gen 4",
-      "price": 25000,
-      "loc": "Skövde",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/6002",
-      "size": "62 cm"
     }
   ],
   "errors": []
