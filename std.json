@@ -152,26 +152,6 @@
       "size": "L"
     },
     {
-      "id": "hr-348066",
-      "brand": "Specialized",
-      "title": "*HÖSTPRIS* Specialized Aethos ultegra di2 roval alpinist Clx 2",
-      "price": 30000,
-      "loc": "Stockholm",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/hostpris-specialized-aethos-ultegra-di2-roval-alpinist-clx-2.348066/",
-      "size": "L"
-    },
-    {
-      "id": "27553177",
-      "brand": "Trek",
-      "title": "Trek Domane 4 Series (58 cm) – Kolfiber / Endurance",
-      "price": 11000,
-      "loc": "Malmö",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/27553177",
-      "size": "58 cm"
-    },
-    {
       "id": "27712804",
       "brand": "Trek",
       "title": "Trek Émonda ALR 5 landsvägscykel storlek 58",
@@ -179,16 +159,6 @@
       "loc": "Horda",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/27712804",
-      "size": "58 cm"
-    },
-    {
-      "id": "fb-1803876000992200",
-      "brand": "Trek",
-      "title": "Trek domane 5.2 58 kolfiber med Aeolus comp 5 kolfiber hjul",
-      "price": 14900,
-      "loc": "Uppsala",
-      "src": "Facebook",
-      "url": "https://www.facebook.com/marketplace/item/1803876000992200",
       "size": "58 cm"
     },
     {
@@ -212,16 +182,6 @@
       "size": "L"
     },
     {
-      "id": "fb-1255635140012418",
-      "brand": "Trek",
-      "title": "Trek Émonda",
-      "price": 15900,
-      "loc": "Färentuna",
-      "src": "Facebook",
-      "url": "https://www.facebook.com/marketplace/item/1255635140012418",
-      "size": "58 cm"
-    },
-    {
       "id": "27649704",
       "brand": "Trek",
       "title": "Trek Émonda SLR L (58 cm) – Dura-Ace wattmätare & Aeolus XXX hjul",
@@ -239,6 +199,16 @@
       "loc": "Blekinge",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/trek-emonda-slr-l-58-cm-dura-ace-wattmatare-amp-aeolus-xxx-hjul.348911/",
+      "size": "58 cm"
+    },
+    {
+      "id": "28103032",
+      "brand": "Trek",
+      "title": "Trek - Emonda ALR - 58cm",
+      "price": 20995,
+      "loc": "Falun",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/28103032",
       "size": "58 cm"
     },
     {
@@ -262,5 +232,7 @@
       "size": "L"
     }
   ],
-  "errors": []
+  "errors": [
+    "facebook: HTTP Error 400: Bad Request"
+  ]
 }
