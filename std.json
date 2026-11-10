@@ -132,16 +132,6 @@
       "size": "L"
     },
     {
-      "id": "hr-349698",
-      "brand": "Specialized",
-      "title": "Specialized Tarmac SL7",
-      "price": 25000,
-      "loc": "Stockholm",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/specialized-tarmac-sl7.349698/",
-      "size": "L"
-    },
-    {
       "id": "hr-346620",
       "brand": "Specialized",
       "title": "Specialized Tarmac SL7 Comp",
@@ -165,11 +155,21 @@
       "id": "27940560",
       "brand": "Trek",
       "title": "Trek Emonda ALR strl L/56 - 2026",
-      "price": 15000,
+      "price": 13000,
       "loc": "Skärholmen",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/27940560",
       "size": "L"
+    },
+    {
+      "id": "fb-1803876000992200",
+      "brand": "Trek",
+      "title": "Trek domane 5.2 58 kolfiber med Aeolus comp 5 kolfiber hjul",
+      "price": 14900,
+      "loc": "Uppsala",
+      "src": "Facebook",
+      "url": "https://www.facebook.com/marketplace/item/1803876000992200",
+      "size": "58 cm"
     },
     {
       "id": "hr-349164",
@@ -180,6 +180,16 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/trek-domane-al5-gen4.349164/",
       "size": "L"
+    },
+    {
+      "id": "fb-1255635140012418",
+      "brand": "Trek",
+      "title": "Trek Émonda",
+      "price": 15900,
+      "loc": "Färentuna",
+      "src": "Facebook",
+      "url": "https://www.facebook.com/marketplace/item/1255635140012418",
+      "size": "58 cm"
     },
     {
       "id": "27649704",
@@ -232,7 +242,5 @@
       "size": "L"
     }
   ],
-  "errors": [
-    "facebook: HTTP Error 400: Bad Request"
-  ]
+  "errors": []
 }
