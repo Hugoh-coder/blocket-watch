@@ -162,16 +162,6 @@
       "size": "L"
     },
     {
-      "id": "fb-1803876000992200",
-      "brand": "Trek",
-      "title": "Trek domane 5.2 58 kolfiber med Aeolus comp 5 kolfiber hjul",
-      "price": 14900,
-      "loc": "Uppsala",
-      "src": "Facebook",
-      "url": "https://www.facebook.com/marketplace/item/1803876000992200",
-      "size": "58 cm"
-    },
-    {
       "id": "hr-349164",
       "brand": "Trek",
       "title": "Trek Domane AL5 Gen4",
@@ -180,36 +170,6 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/trek-domane-al5-gen4.349164/",
       "size": "L"
-    },
-    {
-      "id": "fb-1255635140012418",
-      "brand": "Trek",
-      "title": "Trek Émonda",
-      "price": 15900,
-      "loc": "Färentuna",
-      "src": "Facebook",
-      "url": "https://www.facebook.com/marketplace/item/1255635140012418",
-      "size": "58 cm"
-    },
-    {
-      "id": "27649704",
-      "brand": "Trek",
-      "title": "Trek Émonda SLR L (58 cm) – Dura-Ace wattmätare & Aeolus XXX hjul",
-      "price": 19000,
-      "loc": "Ramdala",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/27649704",
-      "size": "58 cm"
-    },
-    {
-      "id": "hr-348911",
-      "brand": "Trek",
-      "title": "Trek Émonda SLR L (58 cm) – Dura-Ace wattmätare & Aeolus XXX hjul",
-      "price": 19000,
-      "loc": "Blekinge",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/trek-emonda-slr-l-58-cm-dura-ace-wattmatare-amp-aeolus-xxx-hjul.348911/",
-      "size": "58 cm"
     },
     {
       "id": "28103032",
@@ -242,5 +202,7 @@
       "size": "L"
     }
   ],
-  "errors": []
+  "errors": [
+    "facebook: HTTP Error 400: Bad Request"
+  ]
 }
