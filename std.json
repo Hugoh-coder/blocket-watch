@@ -112,16 +112,6 @@
       "size": "L"
     },
     {
-      "id": "hr-348705",
-      "brand": "Specialized",
-      "title": "Specialized Allez Sprint 2019 – Peter Sagan Edition",
-      "price": 21000,
-      "loc": "Stockholm",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/specialized-allez-sprint-2019-peter-sagan-edition.348705/",
-      "size": "L"
-    },
-    {
       "id": "hr-345993",
       "brand": "Specialized",
       "title": "S-Works Tarmac SL5",
@@ -142,6 +132,16 @@
       "size": "L"
     },
     {
+      "id": "27940560",
+      "brand": "Trek",
+      "title": "Trek Emonda ALR strl L/56 - 2026",
+      "price": 11000,
+      "loc": "Skärholmen",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/27940560",
+      "size": "L"
+    },
+    {
       "id": "27712804",
       "brand": "Trek",
       "title": "Trek Émonda ALR 5 landsvägscykel storlek 58",
@@ -152,14 +152,14 @@
       "size": "58 cm"
     },
     {
-      "id": "27940560",
+      "id": "fb-1803876000992200",
       "brand": "Trek",
-      "title": "Trek Emonda ALR strl L/56 - 2026",
-      "price": 13000,
-      "loc": "Skärholmen",
-      "src": "Blocket",
-      "url": "https://www.blocket.se/recommerce/forsale/item/27940560",
-      "size": "L"
+      "title": "Trek domane 5.2 58 kolfiber med Aeolus comp 5 kolfiber hjul",
+      "price": 14900,
+      "loc": "Uppsala",
+      "src": "Facebook",
+      "url": "https://www.facebook.com/marketplace/item/1803876000992200",
+      "size": "58 cm"
     },
     {
       "id": "hr-349164",
@@ -170,6 +170,16 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/trek-domane-al5-gen4.349164/",
       "size": "L"
+    },
+    {
+      "id": "fb-1255635140012418",
+      "brand": "Trek",
+      "title": "Trek Émonda",
+      "price": 15900,
+      "loc": "Färentuna",
+      "src": "Facebook",
+      "url": "https://www.facebook.com/marketplace/item/1255635140012418",
+      "size": "58 cm"
     },
     {
       "id": "28103032",
@@ -202,7 +212,5 @@
       "size": "L"
     }
   ],
-  "errors": [
-    "facebook: HTTP Error 400: Bad Request"
-  ]
+  "errors": []
 }
