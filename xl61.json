@@ -22,16 +22,6 @@
       "size": "XL"
     },
     {
-      "id": "hr-349436",
-      "brand": "Canyon",
-      "title": "Canyon Endurace AL 6",
-      "price": 10000,
-      "loc": "Jönköping",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/canyon-endurace-al-6.349436/",
-      "size": "XL"
-    },
-    {
       "id": "25562127",
       "brand": "Canyon",
       "title": "Canyon landsvägscykel Xl 28\" unisex",
@@ -50,6 +40,16 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/27917285",
       "size": "60 cm"
+    },
+    {
+      "id": "hr-350451",
+      "brand": "Trek",
+      "title": "Trek Emonda ALR5",
+      "price": 14500,
+      "loc": "Skåne",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/trek-emonda-alr5.350451/",
+      "size": "XL"
     }
   ],
   "errors": []
