@@ -95,7 +95,7 @@
       "id": "27578992",
       "brand": "Specialized",
       "title": "Specialized tarmac L herr samt pedaler med wattmätning",
-      "price": 17000,
+      "price": 16000,
       "loc": "Luleå",
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/27578992",
@@ -109,16 +109,6 @@
       "loc": "Västerbotten",
       "src": "Happyride",
       "url": "https://happyride.se/annonser/s-works-tarmac-sl5.345993/",
-      "size": "L"
-    },
-    {
-      "id": "hr-346620",
-      "brand": "Specialized",
-      "title": "Specialized Tarmac SL7 Comp",
-      "price": 27000,
-      "loc": "Gävleborg",
-      "src": "Happyride",
-      "url": "https://happyride.se/annonser/specialized-tarmac-sl7-comp.346620/",
       "size": "L"
     },
     {
@@ -160,6 +150,16 @@
       "src": "Blocket",
       "url": "https://www.blocket.se/recommerce/forsale/item/28103032",
       "size": "58 cm"
+    },
+    {
+      "id": "hr-331802",
+      "brand": "Trek",
+      "title": "Trek Domane Koppenberg – Race Shop Limited build",
+      "price": 25500,
+      "loc": "Dalarna",
+      "src": "Happyride",
+      "url": "https://happyride.se/annonser/trek-domane-koppenberg-race-shop-limited-build.331802/",
+      "size": "L"
     }
   ],
   "errors": []
