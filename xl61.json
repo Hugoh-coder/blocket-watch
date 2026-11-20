@@ -32,6 +32,16 @@
       "size": "XL"
     },
     {
+      "id": "28391926",
+      "brand": "Canyon",
+      "title": "Canyon Endurance Allroad 2027 XXL/2XL",
+      "price": 11500,
+      "loc": "Bankeryd",
+      "src": "Blocket",
+      "url": "https://www.blocket.se/recommerce/forsale/item/28391926",
+      "size": "XL"
+    },
+    {
       "id": "27917285",
       "brand": "Trek",
       "title": "Trek landsvägscykel 60 cm 28”/700c unisex",
@@ -50,6 +60,16 @@
       "src": "Happyride",
       "url": "https://happyride.se/annonser/trek-emonda-alr5.350451/",
       "size": "XL"
+    },
+    {
+      "id": "sp-/produkt/begagnad-domane-sl-6-gen-4-hex-blue-60-cm",
+      "brand": "Trek",
+      "title": "Begagnad Domane SL 6 Gen 4, Hex Blue, 60 cm",
+      "price": 20996,
+      "loc": "Sportson begagnat",
+      "src": "Sportson",
+      "url": "https://www.sportson.se/produkt/begagnad-domane-sl-6-gen-4-hex-blue-60-cm",
+      "size": "60 cm"
     }
   ],
   "errors": []
